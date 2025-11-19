@@ -1,0 +1,966 @@
+[2025-09-03T06:39:24.901Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:39:25.373Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:39:25.377Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T06:39:25.667Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T06:39:25.671Z] [INFO] Clicking on element login Button
+[2025-09-03T06:39:27.771Z] [DEBUG] Clicked on element login Button
+[2025-09-03T06:39:27.780Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T06:39:33.130Z] [DEBUG] Clicked on element setUp Icon
+[2025-09-03T06:39:43.216Z] [INFO] Clicking on element user Search Result
+[2025-09-03T06:39:47.442Z] [DEBUG] Clicked on element user Search Result
+[2025-09-03T06:40:00.141Z] [INFO] Sending text 'undefined' to application Name
+[2025-09-03T06:40:01.116Z] [ERROR] Failed to send text to application Name: Error: locator.fill: value: expected string, got undefined
+[2025-09-03T06:40:11.672Z] [INFO] Clicking on element show Navigation Menu
+[2025-09-03T06:40:13.121Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-09-03T06:40:13.301Z] [INFO] Clicking on element accounts Menu Item
+[2025-09-03T06:40:14.678Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-09-03T06:40:16.744Z] [INFO] Clicking on element list View Element
+[2025-09-03T06:40:17.515Z] [DEBUG] Clicked on element list View Element
+[2025-09-03T06:40:17.626Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:40:18.127Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:40:18.221Z] [INFO] Clicking on element all Clients In List View
+[2025-09-03T06:40:19.517Z] [DEBUG] Clicked on element all Clients In List View
+[2025-09-03T06:40:19.518Z] [INFO] Sending text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:40:19.935Z] [DEBUG] Sent text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:40:22.907Z] [INFO] AccountPage: Validating account record type: Client
+[2025-09-03T06:40:25.120Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-09-03T06:40:25.125Z] [INFO] Clicking on element new Opportunity Button
+[2025-09-03T06:40:29.326Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-09-03T06:40:29.328Z] [INFO] Clicking on element intial Intake Button
+[2025-09-03T06:40:31.153Z] [DEBUG] Clicked on element intial Intake Button
+[2025-09-03T06:40:31.155Z] [INFO] Clicking on element opportunity Next Button
+[2025-09-03T06:40:31.965Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-09-03T06:40:36.478Z] [INFO] Sending text 'auto ykhzo' to opportunity Name
+[2025-09-03T06:40:36.873Z] [DEBUG] Sent text 'auto ykhzo' to opportunity Name
+[2025-09-03T06:40:36.972Z] [INFO] Clicking on element stage DropDown
+[2025-09-03T06:40:37.425Z] [DEBUG] Clicked on element stage DropDown
+[2025-09-03T06:40:39.601Z] [INFO] Clicking on element stage Value
+[2025-09-03T06:40:40.108Z] [DEBUG] Clicked on element stage Value
+[2025-09-03T06:40:44.835Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-09-03T06:40:45.603Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-09-03T06:40:47.707Z] [INFO] Clicking on element insurance Type field
+[2025-09-03T06:40:48.198Z] [DEBUG] Clicked on element insurance Type field
+[2025-09-03T06:40:50.286Z] [INFO] Clicking on element save Button
+[2025-09-03T06:40:50.744Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:40:55.335Z] [INFO] Clicking on element show More Actions DropDown
+[2025-09-03T06:40:55.984Z] [DEBUG] Clicked on element show More Actions DropDown
+[2025-09-03T06:40:55.986Z] [INFO] Clicking on element manage Opportunity Assignment Option
+[2025-09-03T06:40:56.676Z] [DEBUG] Clicked on element manage Opportunity Assignment Option
+[2025-09-03T06:40:58.794Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:40:59.660Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:40:59.980Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:41:00.759Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:41:00.761Z] [INFO] Sending text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:41:01.358Z] [DEBUG] Sent text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:41:01.360Z] [INFO] Clicking on element personNameInList
+[2025-09-03T06:41:02.923Z] [DEBUG] Clicked on element personNameInList
+[2025-09-03T06:41:02.924Z] [INFO] Clicking on element Service LeadCheckBox
+[2025-09-03T06:41:03.628Z] [DEBUG] Clicked on element Service LeadCheckBox
+[2025-09-03T06:41:03.630Z] [INFO] Sending text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:41:04.140Z] [DEBUG] Sent text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:41:04.141Z] [INFO] Clicking on element SaveAndClose Button
+[2025-09-03T06:41:04.736Z] [DEBUG] Clicked on element SaveAndClose Button
+[2025-09-03T06:41:04.740Z] [INFO] Clicking on element edit Button
+[2025-09-03T06:41:07.515Z] [DEBUG] Clicked on element edit Button
+[2025-09-03T06:41:09.673Z] [INFO] Sending text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:41:12.776Z] [DEBUG] Sent text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:41:12.777Z] [INFO] Sending text '100000' to enterpriseValueField
+[2025-09-03T06:41:13.687Z] [DEBUG] Sent text '100000' to enterpriseValueField
+[2025-09-03T06:41:13.689Z] [INFO] Sending text 'ImageFIRST Healthcare Laundry Specialists, LLC' to target Field
+[2025-09-03T06:41:14.455Z] [DEBUG] Sent text 'ImageFIRST Healthcare Laundry Specialists, LLC' to target Field
+[2025-09-03T06:41:14.456Z] [INFO] Sending text 'The traget provides outpatient and specialty healthcare laundry services in the U.S.' to target Description Field
+[2025-09-03T06:41:15.494Z] [DEBUG] Sent text 'The traget provides outpatient and specialty healthcare laundry services in the U.S.' to target Description Field
+[2025-09-03T06:41:15.496Z] [INFO] Clicking on element quote DueTime DropDown
+[2025-09-03T06:41:16.354Z] [DEBUG] Clicked on element quote DueTime DropDown
+[2025-09-03T06:41:16.521Z] [INFO] Clicking on element quote DueTime Value
+[2025-09-03T06:41:17.677Z] [DEBUG] Clicked on element quote DueTime Value
+[2025-09-03T06:41:17.679Z] [INFO] Clicking on element sellers Idemnity
+[2025-09-03T06:41:18.788Z] [DEBUG] Clicked on element sellers Idemnity
+[2025-09-03T06:41:18.789Z] [INFO] Clicking on element sellers Idemnity Value
+[2025-09-03T06:41:19.682Z] [DEBUG] Clicked on element sellers Idemnity Value
+[2025-09-03T06:41:19.687Z] [INFO] Clicking on element buyers Council DropDown
+[2025-09-03T06:41:21.240Z] [DEBUG] Clicked on element buyers Council DropDown
+[2025-09-03T06:41:21.242Z] [INFO] Clicking on element buyers Council DropDown Value
+[2025-09-03T06:41:22.677Z] [DEBUG] Clicked on element buyers Council DropDown Value
+[2025-09-03T06:41:22.679Z] [INFO] Sending text '102' to limit Requested
+[2025-09-03T06:41:23.859Z] [DEBUG] Sent text '102' to limit Requested
+[2025-09-03T06:41:23.862Z] [INFO] Clicking on element save Button
+[2025-09-03T06:41:25.093Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:41:25.097Z] [INFO] Clicking on element NDA Button
+[2025-09-03T06:41:27.668Z] [DEBUG] Clicked on element NDA Button
+[2025-09-03T06:41:31.387Z] [INFO] Clicking on element all Carriers Value 
+[2025-09-03T06:41:31.936Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-09-03T06:41:32.372Z] [INFO] Clicking on element ndaNextButton
+[2025-09-03T06:41:33.031Z] [DEBUG] Clicked on element ndaNextButton
+[2025-09-03T06:41:33.034Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:41:35.430Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:41:43.217Z] [INFO] Clicking on element done Button
+[2025-09-03T06:41:43.733Z] [DEBUG] Clicked on element done Button
+[2025-09-03T06:41:43.734Z] [INFO] Clicking on element preview Text
+[2025-09-03T06:41:44.635Z] [DEBUG] Clicked on element preview Text
+[2025-09-03T06:41:46.155Z] [INFO] Clicking on element send Button
+[2025-09-03T06:41:47.077Z] [DEBUG] Clicked on element send Button
+[2025-09-03T06:41:47.079Z] [INFO] Clicking on element successWindow Close Button
+[2025-09-03T06:41:47.631Z] [DEBUG] Clicked on element successWindow Close Button
+[2025-09-03T06:41:47.639Z] [INFO] Clicking on element NDA Button
+[2025-09-03T06:41:48.588Z] [DEBUG] Clicked on element NDA Button
+[2025-09-03T06:41:50.798Z] [INFO] Clicking on element all Carriers Value 
+[2025-09-03T06:41:51.302Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-09-03T06:41:51.563Z] [INFO] Clicking on element ndaNextButton
+[2025-09-03T06:41:52.368Z] [DEBUG] Clicked on element ndaNextButton
+[2025-09-03T06:41:52.370Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:41:54.524Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:42:02.188Z] [INFO] Clicking on element done Button
+[2025-09-03T06:42:02.663Z] [DEBUG] Clicked on element done Button
+[2025-09-03T06:42:02.665Z] [INFO] Clicking on element preview Text
+[2025-09-03T06:42:03.479Z] [DEBUG] Clicked on element preview Text
+[2025-09-03T06:42:04.760Z] [INFO] Clicking on element send Button
+[2025-09-03T06:42:05.384Z] [DEBUG] Clicked on element send Button
+[2025-09-03T06:42:05.385Z] [INFO] Clicking on element successWindow Close Button
+[2025-09-03T06:42:05.986Z] [DEBUG] Clicked on element successWindow Close Button
+[2025-09-03T06:42:05.994Z] [INFO] Clicking on element NDA Button
+[2025-09-03T06:42:06.851Z] [DEBUG] Clicked on element NDA Button
+[2025-09-03T06:42:09.229Z] [INFO] Clicking on element all Carriers Value 
+[2025-09-03T06:42:09.728Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-09-03T06:42:09.999Z] [INFO] Clicking on element ndaNextButton
+[2025-09-03T06:42:10.560Z] [DEBUG] Clicked on element ndaNextButton
+[2025-09-03T06:42:10.561Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:42:12.351Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:42:19.892Z] [INFO] Clicking on element done Button
+[2025-09-03T06:42:20.316Z] [DEBUG] Clicked on element done Button
+[2025-09-03T06:42:20.317Z] [INFO] Clicking on element preview Text
+[2025-09-03T06:42:21.630Z] [DEBUG] Clicked on element preview Text
+[2025-09-03T06:42:22.960Z] [INFO] Clicking on element send Button
+[2025-09-03T06:42:23.637Z] [DEBUG] Clicked on element send Button
+[2025-09-03T06:42:23.638Z] [INFO] Clicking on element successWindow Close Button
+[2025-09-03T06:42:24.079Z] [DEBUG] Clicked on element successWindow Close Button
+[2025-09-03T06:42:37.146Z] [INFO] Clicking on element file Section
+[2025-09-03T06:42:37.550Z] [DEBUG] Clicked on element file Section
+[2025-09-03T06:42:48.754Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:42:48.868Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:42:48.869Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T06:42:48.985Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T06:42:48.987Z] [INFO] Clicking on element login Button
+[2025-09-03T06:42:51.176Z] [DEBUG] Clicked on element login Button
+[2025-09-03T06:42:51.185Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T06:42:58.768Z] [DEBUG] Clicked on element setUp Icon
+[2025-09-03T06:43:07.262Z] [INFO] Clicking on element user Search Result
+[2025-09-03T06:43:11.316Z] [DEBUG] Clicked on element user Search Result
+[2025-09-03T06:43:22.984Z] [INFO] Sending text 'undefined' to application Name
+[2025-09-03T06:43:24.109Z] [ERROR] Failed to send text to application Name: Error: locator.fill: value: expected string, got undefined
+[2025-09-03T06:43:33.721Z] [INFO] Clicking on element show Navigation Menu
+[2025-09-03T06:43:35.426Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-09-03T06:43:35.561Z] [INFO] Clicking on element accounts Menu Item
+[2025-09-03T06:43:36.318Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-09-03T06:43:38.105Z] [INFO] Clicking on element list View Element
+[2025-09-03T06:43:38.712Z] [DEBUG] Clicked on element list View Element
+[2025-09-03T06:43:38.799Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:43:39.315Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:43:39.428Z] [INFO] Clicking on element all Clients In List View
+[2025-09-03T06:43:40.106Z] [DEBUG] Clicked on element all Clients In List View
+[2025-09-03T06:43:40.107Z] [INFO] Sending text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:43:40.579Z] [DEBUG] Sent text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:43:43.599Z] [INFO] AccountPage: Validating account record type: Client
+[2025-09-03T06:43:47.426Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-09-03T06:43:47.429Z] [INFO] Clicking on element new Opportunity Button
+[2025-09-03T06:43:51.101Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-09-03T06:43:51.105Z] [INFO] Clicking on element intial Intake Button
+[2025-09-03T06:43:53.248Z] [DEBUG] Clicked on element intial Intake Button
+[2025-09-03T06:43:53.249Z] [INFO] Clicking on element opportunity Next Button
+[2025-09-03T06:43:53.968Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-09-03T06:43:58.339Z] [INFO] Sending text 'auto qekhu' to opportunity Name
+[2025-09-03T06:43:58.755Z] [DEBUG] Sent text 'auto qekhu' to opportunity Name
+[2025-09-03T06:43:58.841Z] [INFO] Clicking on element stage DropDown
+[2025-09-03T06:43:59.275Z] [DEBUG] Clicked on element stage DropDown
+[2025-09-03T06:44:01.431Z] [INFO] Clicking on element stage Value
+[2025-09-03T06:44:01.923Z] [DEBUG] Clicked on element stage Value
+[2025-09-03T06:44:06.538Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-09-03T06:44:07.409Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-09-03T06:44:09.515Z] [INFO] Clicking on element insurance Type field
+[2025-09-03T06:44:10.176Z] [DEBUG] Clicked on element insurance Type field
+[2025-09-03T06:44:12.281Z] [INFO] Clicking on element save Button
+[2025-09-03T06:44:12.730Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:44:18.175Z] [INFO] Clicking on element show More Actions DropDown
+[2025-09-03T06:44:18.864Z] [DEBUG] Clicked on element show More Actions DropDown
+[2025-09-03T06:44:18.865Z] [INFO] Clicking on element manage Opportunity Assignment Option
+[2025-09-03T06:44:19.998Z] [DEBUG] Clicked on element manage Opportunity Assignment Option
+[2025-09-03T06:44:22.166Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:44:22.991Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:44:23.192Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:44:23.884Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:44:23.885Z] [INFO] Sending text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:44:24.367Z] [DEBUG] Sent text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:44:24.368Z] [INFO] Clicking on element personNameInList
+[2025-09-03T06:44:25.861Z] [DEBUG] Clicked on element personNameInList
+[2025-09-03T06:44:25.862Z] [INFO] Clicking on element Service LeadCheckBox
+[2025-09-03T06:44:26.513Z] [DEBUG] Clicked on element Service LeadCheckBox
+[2025-09-03T06:44:26.514Z] [INFO] Sending text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:44:26.951Z] [DEBUG] Sent text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:44:26.953Z] [INFO] Clicking on element SaveAndClose Button
+[2025-09-03T06:44:27.605Z] [DEBUG] Clicked on element SaveAndClose Button
+[2025-09-03T06:44:27.607Z] [INFO] Clicking on element edit Button
+[2025-09-03T06:44:30.539Z] [DEBUG] Clicked on element edit Button
+[2025-09-03T06:44:32.611Z] [INFO] Sending text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:44:34.717Z] [DEBUG] Sent text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:44:34.718Z] [INFO] Sending text '2000' to enterpriseValueField
+[2025-09-03T06:44:35.502Z] [DEBUG] Sent text '2000' to enterpriseValueField
+[2025-09-03T06:44:35.504Z] [INFO] Sending text 'Goldman Sachs Asset Management' to target Field
+[2025-09-03T06:44:36.212Z] [DEBUG] Sent text 'Goldman Sachs Asset Management' to target Field
+[2025-09-03T06:44:36.215Z] [INFO] Sending text 'This target company provides healthcare laundry services in the U.S.' to target Description Field
+[2025-09-03T06:44:36.904Z] [DEBUG] Sent text 'This target company provides healthcare laundry services in the U.S.' to target Description Field
+[2025-09-03T06:44:36.906Z] [INFO] Clicking on element quote DueTime DropDown
+[2025-09-03T06:44:37.586Z] [DEBUG] Clicked on element quote DueTime DropDown
+[2025-09-03T06:44:37.705Z] [INFO] Clicking on element quote DueTime Value
+[2025-09-03T06:44:38.485Z] [DEBUG] Clicked on element quote DueTime Value
+[2025-09-03T06:44:38.488Z] [INFO] Clicking on element sellers Idemnity
+[2025-09-03T06:44:39.227Z] [DEBUG] Clicked on element sellers Idemnity
+[2025-09-03T06:44:39.229Z] [INFO] Clicking on element sellers Idemnity Value
+[2025-09-03T06:44:39.946Z] [DEBUG] Clicked on element sellers Idemnity Value
+[2025-09-03T06:44:39.948Z] [INFO] Clicking on element buyers Council DropDown
+[2025-09-03T06:44:41.369Z] [DEBUG] Clicked on element buyers Council DropDown
+[2025-09-03T06:44:41.371Z] [INFO] Clicking on element buyers Council DropDown Value
+[2025-09-03T06:44:42.443Z] [DEBUG] Clicked on element buyers Council DropDown Value
+[2025-09-03T06:44:42.446Z] [INFO] Sending text '103' to limit Requested
+[2025-09-03T06:44:43.378Z] [DEBUG] Sent text '103' to limit Requested
+[2025-09-03T06:44:43.381Z] [INFO] Clicking on element save Button
+[2025-09-03T06:44:44.469Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:44:44.472Z] [INFO] Clicking on element NDA Button
+[2025-09-03T06:44:47.235Z] [DEBUG] Clicked on element NDA Button
+[2025-09-03T06:44:49.586Z] [INFO] Clicking on element all Carriers Value 
+[2025-09-03T06:44:51.014Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-09-03T06:44:51.280Z] [INFO] Clicking on element ndaNextButton
+[2025-09-03T06:44:52.047Z] [DEBUG] Clicked on element ndaNextButton
+[2025-09-03T06:44:52.048Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:44:54.774Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:45:02.639Z] [INFO] Clicking on element done Button
+[2025-09-03T06:45:03.055Z] [DEBUG] Clicked on element done Button
+[2025-09-03T06:45:03.056Z] [INFO] Clicking on element preview Text
+[2025-09-03T06:45:03.836Z] [DEBUG] Clicked on element preview Text
+[2025-09-03T06:45:20.502Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:45:20.922Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:45:20.925Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T06:45:21.120Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T06:45:21.124Z] [INFO] Clicking on element login Button
+[2025-09-03T06:45:23.305Z] [DEBUG] Clicked on element login Button
+[2025-09-03T06:45:23.315Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T06:45:31.001Z] [DEBUG] Clicked on element setUp Icon
+[2025-09-03T06:45:40.188Z] [INFO] Clicking on element user Search Result
+[2025-09-03T06:45:44.462Z] [DEBUG] Clicked on element user Search Result
+[2025-09-03T06:45:56.677Z] [INFO] Sending text 'undefined' to application Name
+[2025-09-03T06:45:57.654Z] [ERROR] Failed to send text to application Name: Error: locator.fill: value: expected string, got undefined
+[2025-09-03T06:46:07.614Z] [INFO] Clicking on element show Navigation Menu
+[2025-09-03T06:46:08.940Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-09-03T06:46:09.088Z] [INFO] Clicking on element accounts Menu Item
+[2025-09-03T06:46:10.205Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-09-03T06:46:12.501Z] [INFO] Clicking on element list View Element
+[2025-09-03T06:46:13.117Z] [DEBUG] Clicked on element list View Element
+[2025-09-03T06:46:13.196Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:46:13.703Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:46:13.846Z] [INFO] Clicking on element all Clients In List View
+[2025-09-03T06:46:14.918Z] [DEBUG] Clicked on element all Clients In List View
+[2025-09-03T06:46:14.920Z] [INFO] Sending text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:46:15.316Z] [DEBUG] Sent text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:46:17.994Z] [INFO] AccountPage: Validating account record type: Client
+[2025-09-03T06:46:21.741Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-09-03T06:46:21.744Z] [INFO] Clicking on element new Opportunity Button
+[2025-09-03T06:46:25.688Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-09-03T06:46:25.689Z] [INFO] Clicking on element intial Intake Button
+[2025-09-03T06:46:27.548Z] [DEBUG] Clicked on element intial Intake Button
+[2025-09-03T06:46:27.550Z] [INFO] Clicking on element opportunity Next Button
+[2025-09-03T06:46:28.398Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-09-03T06:46:32.763Z] [INFO] Sending text 'auto qgxwx' to opportunity Name
+[2025-09-03T06:46:33.128Z] [DEBUG] Sent text 'auto qgxwx' to opportunity Name
+[2025-09-03T06:46:33.203Z] [INFO] Clicking on element stage DropDown
+[2025-09-03T06:46:33.788Z] [DEBUG] Clicked on element stage DropDown
+[2025-09-03T06:46:35.943Z] [INFO] Clicking on element stage Value
+[2025-09-03T06:46:36.341Z] [DEBUG] Clicked on element stage Value
+[2025-09-03T06:46:40.881Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-09-03T06:46:41.399Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-09-03T06:46:43.474Z] [INFO] Clicking on element insurance Type field
+[2025-09-03T06:46:43.898Z] [DEBUG] Clicked on element insurance Type field
+[2025-09-03T06:46:45.979Z] [INFO] Clicking on element save Button
+[2025-09-03T06:46:46.488Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:46:51.048Z] [INFO] Clicking on element show More Actions DropDown
+[2025-09-03T06:46:51.775Z] [DEBUG] Clicked on element show More Actions DropDown
+[2025-09-03T06:46:51.777Z] [INFO] Clicking on element manage Opportunity Assignment Option
+[2025-09-03T06:46:52.524Z] [DEBUG] Clicked on element manage Opportunity Assignment Option
+[2025-09-03T06:46:54.951Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:46:55.879Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:46:56.190Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:46:57.141Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:46:57.142Z] [INFO] Sending text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:46:57.591Z] [DEBUG] Sent text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:46:57.593Z] [INFO] Clicking on element personNameInList
+[2025-09-03T06:46:59.273Z] [DEBUG] Clicked on element personNameInList
+[2025-09-03T06:46:59.275Z] [INFO] Clicking on element Service LeadCheckBox
+[2025-09-03T06:47:00.345Z] [DEBUG] Clicked on element Service LeadCheckBox
+[2025-09-03T06:47:00.346Z] [INFO] Sending text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:47:00.833Z] [DEBUG] Sent text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:47:00.836Z] [INFO] Clicking on element SaveAndClose Button
+[2025-09-03T06:47:01.381Z] [DEBUG] Clicked on element SaveAndClose Button
+[2025-09-03T06:47:01.384Z] [INFO] Clicking on element edit Button
+[2025-09-03T06:47:04.227Z] [DEBUG] Clicked on element edit Button
+[2025-09-03T06:47:06.299Z] [INFO] Sending text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:47:08.914Z] [DEBUG] Sent text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:47:08.915Z] [INFO] Sending text '20000' to enterpriseValueField
+[2025-09-03T06:47:09.844Z] [DEBUG] Sent text '20000' to enterpriseValueField
+[2025-09-03T06:47:09.846Z] [INFO] Sending text 'Heritage Vet Partners' to target Field
+[2025-09-03T06:47:10.559Z] [DEBUG] Sent text 'Heritage Vet Partners' to target Field
+[2025-09-03T06:47:10.561Z] [INFO] Sending text 'Target provides a mixed animal vet practice with 28 locations across 12 states.' to target Description Field
+[2025-09-03T06:47:11.319Z] [DEBUG] Sent text 'Target provides a mixed animal vet practice with 28 locations across 12 states.' to target Description Field
+[2025-09-03T06:47:11.320Z] [INFO] Clicking on element quote DueTime DropDown
+[2025-09-03T06:47:12.130Z] [DEBUG] Clicked on element quote DueTime DropDown
+[2025-09-03T06:47:12.266Z] [INFO] Clicking on element quote DueTime Value
+[2025-09-03T06:47:12.950Z] [DEBUG] Clicked on element quote DueTime Value
+[2025-09-03T06:47:12.952Z] [INFO] Clicking on element sellers Idemnity
+[2025-09-03T06:47:13.702Z] [DEBUG] Clicked on element sellers Idemnity
+[2025-09-03T06:47:13.703Z] [INFO] Clicking on element sellers Idemnity Value
+[2025-09-03T06:47:14.413Z] [DEBUG] Clicked on element sellers Idemnity Value
+[2025-09-03T06:47:14.417Z] [INFO] Clicking on element buyers Council DropDown
+[2025-09-03T06:47:15.822Z] [DEBUG] Clicked on element buyers Council DropDown
+[2025-09-03T06:47:15.824Z] [INFO] Clicking on element buyers Council DropDown Value
+[2025-09-03T06:47:17.164Z] [DEBUG] Clicked on element buyers Council DropDown Value
+[2025-09-03T06:47:17.165Z] [INFO] Sending text '104' to limit Requested
+[2025-09-03T06:47:18.441Z] [DEBUG] Sent text '104' to limit Requested
+[2025-09-03T06:47:18.443Z] [INFO] Clicking on element save Button
+[2025-09-03T06:47:19.703Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:47:19.706Z] [INFO] Clicking on element NDA Button
+[2025-09-03T06:47:22.102Z] [DEBUG] Clicked on element NDA Button
+[2025-09-03T06:47:24.510Z] [INFO] Clicking on element all Carriers Value 
+[2025-09-03T06:47:25.118Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-09-03T06:47:25.971Z] [INFO] Clicking on element ndaNextButton
+[2025-09-03T06:47:26.712Z] [DEBUG] Clicked on element ndaNextButton
+[2025-09-03T06:47:26.714Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:47:29.559Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:47:37.049Z] [INFO] Clicking on element done Button
+[2025-09-03T06:47:37.496Z] [DEBUG] Clicked on element done Button
+[2025-09-03T06:47:37.501Z] [INFO] Clicking on element preview Text
+[2025-09-03T06:47:38.292Z] [DEBUG] Clicked on element preview Text
+[2025-09-03T06:47:39.396Z] [INFO] Clicking on element send Button
+[2025-09-03T06:47:39.940Z] [DEBUG] Clicked on element send Button
+[2025-09-03T06:47:39.942Z] [INFO] Clicking on element successWindow Close Button
+[2025-09-03T06:47:40.377Z] [DEBUG] Clicked on element successWindow Close Button
+[2025-09-03T06:47:40.383Z] [INFO] Clicking on element NDA Button
+[2025-09-03T06:47:41.143Z] [DEBUG] Clicked on element NDA Button
+[2025-09-03T06:47:43.400Z] [INFO] Clicking on element all Carriers Value 
+[2025-09-03T06:47:43.926Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-09-03T06:47:44.163Z] [INFO] Clicking on element ndaNextButton
+[2025-09-03T06:47:44.679Z] [DEBUG] Clicked on element ndaNextButton
+[2025-09-03T06:47:44.680Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:47:46.703Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:47:54.121Z] [INFO] Clicking on element done Button
+[2025-09-03T06:47:54.550Z] [DEBUG] Clicked on element done Button
+[2025-09-03T06:47:54.552Z] [INFO] Clicking on element preview Text
+[2025-09-03T06:47:55.415Z] [DEBUG] Clicked on element preview Text
+[2025-09-03T06:47:57.193Z] [INFO] Clicking on element send Button
+[2025-09-03T06:47:58.321Z] [DEBUG] Clicked on element send Button
+[2025-09-03T06:47:58.324Z] [INFO] Clicking on element successWindow Close Button
+[2025-09-03T06:47:59.218Z] [DEBUG] Clicked on element successWindow Close Button
+[2025-09-03T06:47:59.224Z] [INFO] Clicking on element NDA Button
+[2025-09-03T06:48:00.592Z] [DEBUG] Clicked on element NDA Button
+[2025-09-03T06:48:02.992Z] [INFO] Clicking on element all Carriers Value 
+[2025-09-03T06:48:03.527Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-09-03T06:48:03.781Z] [INFO] Clicking on element ndaNextButton
+[2025-09-03T06:48:04.293Z] [DEBUG] Clicked on element ndaNextButton
+[2025-09-03T06:48:04.294Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:48:06.337Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:48:13.905Z] [INFO] Clicking on element done Button
+[2025-09-03T06:48:14.250Z] [DEBUG] Clicked on element done Button
+[2025-09-03T06:48:14.252Z] [INFO] Clicking on element preview Text
+[2025-09-03T06:48:15.285Z] [DEBUG] Clicked on element preview Text
+[2025-09-03T06:48:16.141Z] [INFO] Clicking on element send Button
+[2025-09-03T06:48:16.659Z] [DEBUG] Clicked on element send Button
+[2025-09-03T06:48:16.661Z] [INFO] Clicking on element successWindow Close Button
+[2025-09-03T06:48:16.989Z] [DEBUG] Clicked on element successWindow Close Button
+[2025-09-03T06:48:28.417Z] [INFO] Clicking on element file Section
+[2025-09-03T06:48:28.820Z] [DEBUG] Clicked on element file Section
+[2025-09-03T06:48:37.904Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:48:38.293Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:48:38.296Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T06:48:38.424Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T06:48:38.426Z] [INFO] Clicking on element login Button
+[2025-09-03T06:48:40.923Z] [DEBUG] Clicked on element login Button
+[2025-09-03T06:48:40.937Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T06:48:47.707Z] [DEBUG] Clicked on element setUp Icon
+[2025-09-03T06:48:59.651Z] [INFO] Clicking on element user Search Result
+[2025-09-03T06:49:03.494Z] [DEBUG] Clicked on element user Search Result
+[2025-09-03T06:49:17.993Z] [INFO] Sending text 'undefined' to application Name
+[2025-09-03T06:49:19.213Z] [ERROR] Failed to send text to application Name: Error: locator.fill: value: expected string, got undefined
+[2025-09-03T06:49:31.844Z] [INFO] Clicking on element show Navigation Menu
+[2025-09-03T06:49:32.414Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-09-03T06:49:32.493Z] [INFO] Clicking on element accounts Menu Item
+[2025-09-03T06:49:32.922Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-09-03T06:49:34.966Z] [INFO] Clicking on element list View Element
+[2025-09-03T06:49:35.449Z] [DEBUG] Clicked on element list View Element
+[2025-09-03T06:49:35.620Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:49:35.888Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:49:35.949Z] [INFO] Clicking on element all Clients In List View
+[2025-09-03T06:49:36.418Z] [DEBUG] Clicked on element all Clients In List View
+[2025-09-03T06:49:36.419Z] [INFO] Sending text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:49:36.766Z] [DEBUG] Sent text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:49:38.723Z] [INFO] AccountPage: Validating account record type: Client
+[2025-09-03T06:49:39.916Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-09-03T06:49:39.919Z] [INFO] Clicking on element new Opportunity Button
+[2025-09-03T06:49:42.220Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-09-03T06:49:42.221Z] [INFO] Clicking on element intial Intake Button
+[2025-09-03T06:49:43.903Z] [DEBUG] Clicked on element intial Intake Button
+[2025-09-03T06:49:43.905Z] [INFO] Clicking on element opportunity Next Button
+[2025-09-03T06:49:44.429Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-09-03T06:49:50.006Z] [INFO] Sending text 'auto rpxyk' to opportunity Name
+[2025-09-03T06:49:50.304Z] [DEBUG] Sent text 'auto rpxyk' to opportunity Name
+[2025-09-03T06:49:50.353Z] [INFO] Clicking on element stage DropDown
+[2025-09-03T06:49:50.649Z] [DEBUG] Clicked on element stage DropDown
+[2025-09-03T06:49:52.795Z] [INFO] Clicking on element stage Value
+[2025-09-03T06:49:53.219Z] [DEBUG] Clicked on element stage Value
+[2025-09-03T06:49:58.163Z] [INFO] Clicking on element insurance DropDown
+[2025-09-03T06:49:58.540Z] [DEBUG] Clicked on element insurance DropDown
+[2025-09-03T06:49:58.724Z] [INFO] Clicking on element Insurance Type Option
+[2025-09-03T06:49:59.076Z] [DEBUG] Clicked on element Insurance Type Option
+[2025-09-03T06:49:59.077Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-09-03T06:49:59.568Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-09-03T06:50:01.652Z] [INFO] Clicking on element insurance Type field
+[2025-09-03T06:50:02.072Z] [DEBUG] Clicked on element insurance Type field
+[2025-09-03T06:50:04.160Z] [INFO] Clicking on element save Button
+[2025-09-03T06:50:04.567Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:50:08.730Z] [INFO] Clicking on element show More Actions DropDown
+[2025-09-03T06:50:09.462Z] [DEBUG] Clicked on element show More Actions DropDown
+[2025-09-03T06:50:09.464Z] [INFO] Clicking on element manage Opportunity Assignment Option
+[2025-09-03T06:50:09.949Z] [DEBUG] Clicked on element manage Opportunity Assignment Option
+[2025-09-03T06:50:11.986Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:50:12.619Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:50:12.936Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:50:13.539Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:50:13.541Z] [INFO] Sending text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:50:14.071Z] [DEBUG] Sent text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:50:14.072Z] [INFO] Clicking on element personNameInList
+[2025-09-03T06:50:15.809Z] [DEBUG] Clicked on element personNameInList
+[2025-09-03T06:50:15.813Z] [INFO] Clicking on element Service LeadCheckBox
+[2025-09-03T06:50:16.709Z] [DEBUG] Clicked on element Service LeadCheckBox
+[2025-09-03T06:50:16.718Z] [INFO] Sending text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:50:17.263Z] [DEBUG] Sent text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:50:17.265Z] [INFO] Clicking on element SaveAndClose Button
+[2025-09-03T06:50:17.960Z] [DEBUG] Clicked on element SaveAndClose Button
+[2025-09-03T06:50:17.963Z] [INFO] Clicking on element edit Button
+[2025-09-03T06:50:20.765Z] [DEBUG] Clicked on element edit Button
+[2025-09-03T06:50:22.923Z] [INFO] Sending text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:50:24.945Z] [DEBUG] Sent text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:50:24.947Z] [INFO] Sending text '10500' to enterpriseValueField
+[2025-09-03T06:50:26.248Z] [DEBUG] Sent text '10500' to enterpriseValueField
+[2025-09-03T06:50:26.250Z] [INFO] Sending text 'Progeny Health LLC' to target Field
+[2025-09-03T06:50:27.056Z] [DEBUG] Sent text 'Progeny Health LLC' to target Field
+[2025-09-03T06:50:27.058Z] [INFO] Sending text 'The company provides Utilization and healthcare services in the U.S.' to target Description Field
+[2025-09-03T06:50:27.972Z] [DEBUG] Sent text 'The company provides Utilization and healthcare services in the U.S.' to target Description Field
+[2025-09-03T06:50:27.975Z] [INFO] Clicking on element quote DueTime DropDown
+[2025-09-03T06:50:29.115Z] [DEBUG] Clicked on element quote DueTime DropDown
+[2025-09-03T06:50:29.301Z] [INFO] Clicking on element quote DueTime Value
+[2025-09-03T06:50:30.268Z] [DEBUG] Clicked on element quote DueTime Value
+[2025-09-03T06:50:30.271Z] [INFO] Clicking on element sellers Idemnity
+[2025-09-03T06:50:31.548Z] [DEBUG] Clicked on element sellers Idemnity
+[2025-09-03T06:50:31.552Z] [INFO] Clicking on element sellers Idemnity Value
+[2025-09-03T06:50:32.944Z] [DEBUG] Clicked on element sellers Idemnity Value
+[2025-09-03T06:50:32.947Z] [INFO] Clicking on element buyers Council DropDown
+[2025-09-03T06:50:34.146Z] [DEBUG] Clicked on element buyers Council DropDown
+[2025-09-03T06:50:34.148Z] [INFO] Clicking on element buyers Council DropDown Value
+[2025-09-03T06:50:35.100Z] [DEBUG] Clicked on element buyers Council DropDown Value
+[2025-09-03T06:50:35.101Z] [INFO] Sending text '108' to limit Requested
+[2025-09-03T06:50:35.742Z] [DEBUG] Sent text '108' to limit Requested
+[2025-09-03T06:50:35.743Z] [INFO] Clicking on element save Button
+[2025-09-03T06:50:36.661Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:50:36.667Z] [INFO] Clicking on element NDA Button
+[2025-09-03T06:50:39.532Z] [DEBUG] Clicked on element NDA Button
+[2025-09-03T06:50:41.884Z] [INFO] Clicking on element all Carriers Value 
+[2025-09-03T06:50:42.678Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-09-03T06:50:42.895Z] [INFO] Clicking on element ndaNextButton
+[2025-09-03T06:50:43.346Z] [DEBUG] Clicked on element ndaNextButton
+[2025-09-03T06:50:43.349Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:50:45.649Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:50:53.049Z] [INFO] Clicking on element done Button
+[2025-09-03T06:50:53.480Z] [DEBUG] Clicked on element done Button
+[2025-09-03T06:50:53.486Z] [INFO] Clicking on element preview Text
+[2025-09-03T06:50:54.477Z] [DEBUG] Clicked on element preview Text
+[2025-09-03T06:51:12.820Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:51:13.155Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:51:13.160Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T06:51:13.386Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T06:51:13.389Z] [INFO] Clicking on element login Button
+[2025-09-03T06:51:15.506Z] [DEBUG] Clicked on element login Button
+[2025-09-03T06:51:15.514Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T06:51:21.658Z] [DEBUG] Clicked on element setUp Icon
+[2025-09-03T06:51:29.800Z] [INFO] Clicking on element user Search Result
+[2025-09-03T06:51:34.372Z] [DEBUG] Clicked on element user Search Result
+[2025-09-03T06:51:47.117Z] [INFO] Sending text 'undefined' to application Name
+[2025-09-03T06:51:47.752Z] [ERROR] Failed to send text to application Name: Error: locator.fill: value: expected string, got undefined
+[2025-09-03T06:51:58.791Z] [INFO] Clicking on element show Navigation Menu
+[2025-09-03T06:51:59.284Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-09-03T06:51:59.333Z] [INFO] Clicking on element accounts Menu Item
+[2025-09-03T06:51:59.684Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-09-03T06:52:01.354Z] [INFO] Clicking on element list View Element
+[2025-09-03T06:52:01.785Z] [DEBUG] Clicked on element list View Element
+[2025-09-03T06:52:01.881Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:52:02.138Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:52:02.217Z] [INFO] Clicking on element all Clients In List View
+[2025-09-03T06:52:02.638Z] [DEBUG] Clicked on element all Clients In List View
+[2025-09-03T06:52:02.640Z] [INFO] Sending text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:52:02.967Z] [DEBUG] Sent text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:52:05.086Z] [INFO] AccountPage: Validating account record type: Client
+[2025-09-03T06:52:07.082Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-09-03T06:52:07.085Z] [INFO] Clicking on element new Opportunity Button
+[2025-09-03T06:52:13.202Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-09-03T06:52:13.203Z] [INFO] Clicking on element intial Intake Button
+[2025-09-03T06:52:15.180Z] [DEBUG] Clicked on element intial Intake Button
+[2025-09-03T06:52:15.182Z] [INFO] Clicking on element opportunity Next Button
+[2025-09-03T06:52:16.040Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-09-03T06:52:22.497Z] [INFO] Sending text 'auto mdwwl' to opportunity Name
+[2025-09-03T06:52:22.960Z] [DEBUG] Sent text 'auto mdwwl' to opportunity Name
+[2025-09-03T06:52:23.039Z] [INFO] Clicking on element stage DropDown
+[2025-09-03T06:52:23.540Z] [DEBUG] Clicked on element stage DropDown
+[2025-09-03T06:52:25.783Z] [INFO] Clicking on element stage Value
+[2025-09-03T06:52:26.308Z] [DEBUG] Clicked on element stage Value
+[2025-09-03T06:52:31.217Z] [INFO] Clicking on element insurance DropDown
+[2025-09-03T06:52:32.558Z] [DEBUG] Clicked on element insurance DropDown
+[2025-09-03T06:52:32.901Z] [INFO] Clicking on element Insurance Type Option
+[2025-09-03T06:52:33.617Z] [DEBUG] Clicked on element Insurance Type Option
+[2025-09-03T06:52:33.620Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-09-03T06:52:34.282Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-09-03T06:52:36.429Z] [INFO] Clicking on element insurance Type field
+[2025-09-03T06:52:37.017Z] [DEBUG] Clicked on element insurance Type field
+[2025-09-03T06:52:39.121Z] [INFO] Clicking on element save Button
+[2025-09-03T06:52:39.619Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:52:43.648Z] [INFO] Clicking on element show More Actions DropDown
+[2025-09-03T06:52:44.223Z] [DEBUG] Clicked on element show More Actions DropDown
+[2025-09-03T06:52:44.225Z] [INFO] Clicking on element manage Opportunity Assignment Option
+[2025-09-03T06:52:45.037Z] [DEBUG] Clicked on element manage Opportunity Assignment Option
+[2025-09-03T06:52:47.475Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:52:48.229Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:52:48.576Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:52:49.285Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:52:49.287Z] [INFO] Sending text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:52:49.798Z] [DEBUG] Sent text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:52:49.799Z] [INFO] Clicking on element personNameInList
+[2025-09-03T06:52:51.423Z] [DEBUG] Clicked on element personNameInList
+[2025-09-03T06:52:51.424Z] [INFO] Clicking on element Service LeadCheckBox
+[2025-09-03T06:52:52.244Z] [DEBUG] Clicked on element Service LeadCheckBox
+[2025-09-03T06:52:52.246Z] [INFO] Sending text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:52:52.744Z] [DEBUG] Sent text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:52:52.745Z] [INFO] Clicking on element SaveAndClose Button
+[2025-09-03T06:52:53.404Z] [DEBUG] Clicked on element SaveAndClose Button
+[2025-09-03T06:52:53.407Z] [INFO] Clicking on element edit Button
+[2025-09-03T06:52:57.052Z] [DEBUG] Clicked on element edit Button
+[2025-09-03T06:52:59.821Z] [INFO] Sending text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:53:02.895Z] [DEBUG] Sent text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:53:02.898Z] [INFO] Sending text '10000' to enterpriseValueField
+[2025-09-03T06:53:03.792Z] [DEBUG] Sent text '10000' to enterpriseValueField
+[2025-09-03T06:53:03.793Z] [INFO] Sending text 'A&M Home Services' to target Field
+[2025-09-03T06:53:04.636Z] [DEBUG] Sent text 'A&M Home Services' to target Field
+[2025-09-03T06:53:04.638Z] [INFO] Sending text 'It is for New Single-Family Housing Construction (except For-Sale Builders)' to target Description Field
+[2025-09-03T06:53:05.424Z] [DEBUG] Sent text 'It is for New Single-Family Housing Construction (except For-Sale Builders)' to target Description Field
+[2025-09-03T06:53:05.426Z] [INFO] Clicking on element quote DueTime DropDown
+[2025-09-03T06:53:06.278Z] [DEBUG] Clicked on element quote DueTime DropDown
+[2025-09-03T06:53:06.417Z] [INFO] Clicking on element quote DueTime Value
+[2025-09-03T06:53:07.213Z] [DEBUG] Clicked on element quote DueTime Value
+[2025-09-03T06:53:07.217Z] [INFO] Clicking on element sellers Idemnity
+[2025-09-03T06:53:08.338Z] [DEBUG] Clicked on element sellers Idemnity
+[2025-09-03T06:53:08.340Z] [INFO] Clicking on element sellers Idemnity Value
+[2025-09-03T06:53:09.567Z] [DEBUG] Clicked on element sellers Idemnity Value
+[2025-09-03T06:53:09.569Z] [INFO] Clicking on element buyers Council DropDown
+[2025-09-03T06:53:11.061Z] [DEBUG] Clicked on element buyers Council DropDown
+[2025-09-03T06:53:11.063Z] [INFO] Clicking on element buyers Council DropDown Value
+[2025-09-03T06:53:12.386Z] [DEBUG] Clicked on element buyers Council DropDown Value
+[2025-09-03T06:53:12.387Z] [INFO] Sending text '109' to limit Requested
+[2025-09-03T06:53:13.299Z] [DEBUG] Sent text '109' to limit Requested
+[2025-09-03T06:53:13.301Z] [INFO] Clicking on element save Button
+[2025-09-03T06:53:14.454Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:53:14.457Z] [INFO] Clicking on element NDA Button
+[2025-09-03T06:53:18.142Z] [DEBUG] Clicked on element NDA Button
+[2025-09-03T06:53:21.678Z] [INFO] Clicking on element all Carriers Value 
+[2025-09-03T06:53:22.985Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-09-03T06:53:23.270Z] [INFO] Clicking on element ndaNextButton
+[2025-09-03T06:53:23.962Z] [DEBUG] Clicked on element ndaNextButton
+[2025-09-03T06:53:23.964Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:53:26.331Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:53:33.846Z] [INFO] Clicking on element done Button
+[2025-09-03T06:53:34.335Z] [DEBUG] Clicked on element done Button
+[2025-09-03T06:53:34.339Z] [INFO] Clicking on element preview Text
+[2025-09-03T06:53:35.142Z] [DEBUG] Clicked on element preview Text
+[2025-09-03T06:53:56.873Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:53:57.268Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T06:53:57.270Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T06:53:57.441Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T06:53:57.443Z] [INFO] Clicking on element login Button
+[2025-09-03T06:53:59.500Z] [DEBUG] Clicked on element login Button
+[2025-09-03T06:53:59.506Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T06:54:06.353Z] [DEBUG] Clicked on element setUp Icon
+[2025-09-03T06:54:15.774Z] [INFO] Clicking on element user Search Result
+[2025-09-03T06:54:20.001Z] [DEBUG] Clicked on element user Search Result
+[2025-09-03T06:54:32.448Z] [INFO] Sending text 'undefined' to application Name
+[2025-09-03T06:54:33.538Z] [ERROR] Failed to send text to application Name: Error: locator.fill: value: expected string, got undefined
+[2025-09-03T06:54:42.646Z] [INFO] Clicking on element show Navigation Menu
+[2025-09-03T06:54:43.950Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-09-03T06:54:44.102Z] [INFO] Clicking on element accounts Menu Item
+[2025-09-03T06:54:44.690Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-09-03T06:54:46.608Z] [INFO] Clicking on element list View Element
+[2025-09-03T06:54:47.191Z] [DEBUG] Clicked on element list View Element
+[2025-09-03T06:54:47.293Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:54:47.706Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-09-03T06:54:47.801Z] [INFO] Clicking on element all Clients In List View
+[2025-09-03T06:54:48.791Z] [DEBUG] Clicked on element all Clients In List View
+[2025-09-03T06:54:48.793Z] [INFO] Sending text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:54:49.230Z] [DEBUG] Sent text '1000 Miglia SRL123' to client Name
+[2025-09-03T06:54:51.438Z] [INFO] AccountPage: Validating account record type: Client
+[2025-09-03T06:54:55.100Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-09-03T06:54:55.102Z] [INFO] Clicking on element new Opportunity Button
+[2025-09-03T06:54:59.364Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-09-03T06:54:59.365Z] [INFO] Clicking on element intial Intake Button
+[2025-09-03T06:55:01.210Z] [DEBUG] Clicked on element intial Intake Button
+[2025-09-03T06:55:01.211Z] [INFO] Clicking on element opportunity Next Button
+[2025-09-03T06:55:01.877Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-09-03T06:55:06.268Z] [INFO] Sending text 'auto wviyq' to opportunity Name
+[2025-09-03T06:55:06.681Z] [DEBUG] Sent text 'auto wviyq' to opportunity Name
+[2025-09-03T06:55:06.757Z] [INFO] Clicking on element stage DropDown
+[2025-09-03T06:55:07.230Z] [DEBUG] Clicked on element stage DropDown
+[2025-09-03T06:55:09.398Z] [INFO] Clicking on element stage Value
+[2025-09-03T06:55:09.899Z] [DEBUG] Clicked on element stage Value
+[2025-09-03T06:55:14.839Z] [INFO] Clicking on element insurance DropDown
+[2025-09-03T06:55:15.420Z] [DEBUG] Clicked on element insurance DropDown
+[2025-09-03T06:55:15.680Z] [INFO] Clicking on element Insurance Type Option
+[2025-09-03T06:55:16.345Z] [DEBUG] Clicked on element Insurance Type Option
+[2025-09-03T06:55:16.347Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-09-03T06:55:16.996Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-09-03T06:55:19.112Z] [INFO] Clicking on element insurance Type field
+[2025-09-03T06:55:19.726Z] [DEBUG] Clicked on element insurance Type field
+[2025-09-03T06:55:21.835Z] [INFO] Clicking on element save Button
+[2025-09-03T06:55:22.578Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:55:26.929Z] [INFO] Clicking on element show More Actions DropDown
+[2025-09-03T06:55:27.626Z] [DEBUG] Clicked on element show More Actions DropDown
+[2025-09-03T06:55:27.629Z] [INFO] Clicking on element manage Opportunity Assignment Option
+[2025-09-03T06:55:28.481Z] [DEBUG] Clicked on element manage Opportunity Assignment Option
+[2025-09-03T06:55:31.540Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:55:32.259Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:55:32.525Z] [INFO] Clicking on element Add Assignment Button
+[2025-09-03T06:55:33.371Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-09-03T06:55:33.372Z] [INFO] Sending text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:55:34.049Z] [DEBUG] Sent text 'Patricia Urraca' to Add Assignment Button
+[2025-09-03T06:55:34.051Z] [INFO] Clicking on element personNameInList
+[2025-09-03T06:55:36.262Z] [DEBUG] Clicked on element personNameInList
+[2025-09-03T06:55:36.265Z] [INFO] Clicking on element Service LeadCheckBox
+[2025-09-03T06:55:37.083Z] [DEBUG] Clicked on element Service LeadCheckBox
+[2025-09-03T06:55:37.084Z] [INFO] Sending text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:55:37.722Z] [DEBUG] Sent text '100' to Primary Producer Allocation TextBox
+[2025-09-03T06:55:37.724Z] [INFO] Clicking on element SaveAndClose Button
+[2025-09-03T06:55:38.657Z] [DEBUG] Clicked on element SaveAndClose Button
+[2025-09-03T06:55:38.662Z] [INFO] Clicking on element edit Button
+[2025-09-03T06:55:40.589Z] [DEBUG] Clicked on element edit Button
+[2025-09-03T06:55:42.826Z] [INFO] Sending text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:55:46.239Z] [DEBUG] Sent text '09/03/2026' to quote DueDate Field
+[2025-09-03T06:55:46.241Z] [INFO] Sending text '700' to enterpriseValueField
+[2025-09-03T06:55:47.510Z] [DEBUG] Sent text '700' to enterpriseValueField
+[2025-09-03T06:55:47.512Z] [INFO] Sending text 'AAK Foodservice' to target Field
+[2025-09-03T06:55:49.128Z] [DEBUG] Sent text 'AAK Foodservice' to target Field
+[2025-09-03T06:55:49.130Z] [INFO] Sending text 'Target provides Fats and Oils Refining and Blending' to target Description Field
+[2025-09-03T06:55:50.023Z] [DEBUG] Sent text 'Target provides Fats and Oils Refining and Blending' to target Description Field
+[2025-09-03T06:55:50.025Z] [INFO] Clicking on element quote DueTime DropDown
+[2025-09-03T06:55:51.336Z] [DEBUG] Clicked on element quote DueTime DropDown
+[2025-09-03T06:55:51.530Z] [INFO] Clicking on element quote DueTime Value
+[2025-09-03T06:55:52.389Z] [DEBUG] Clicked on element quote DueTime Value
+[2025-09-03T06:55:52.391Z] [INFO] Clicking on element sellers Idemnity
+[2025-09-03T06:55:53.323Z] [DEBUG] Clicked on element sellers Idemnity
+[2025-09-03T06:55:53.324Z] [INFO] Clicking on element sellers Idemnity Value
+[2025-09-03T06:55:54.398Z] [DEBUG] Clicked on element sellers Idemnity Value
+[2025-09-03T06:55:54.402Z] [INFO] Clicking on element buyers Council DropDown
+[2025-09-03T06:55:56.113Z] [DEBUG] Clicked on element buyers Council DropDown
+[2025-09-03T06:55:56.115Z] [INFO] Clicking on element buyers Council DropDown Value
+[2025-09-03T06:55:57.523Z] [DEBUG] Clicked on element buyers Council DropDown Value
+[2025-09-03T06:55:57.528Z] [INFO] Sending text '110' to limit Requested
+[2025-09-03T06:55:58.754Z] [DEBUG] Sent text '110' to limit Requested
+[2025-09-03T06:55:58.755Z] [INFO] Clicking on element save Button
+[2025-09-03T06:56:00.203Z] [DEBUG] Clicked on element save Button
+[2025-09-03T06:56:00.206Z] [INFO] Clicking on element NDA Button
+[2025-09-03T06:56:03.436Z] [DEBUG] Clicked on element NDA Button
+[2025-09-03T06:56:06.309Z] [INFO] Clicking on element all Carriers Value 
+[2025-09-03T06:56:07.537Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-09-03T06:56:07.822Z] [INFO] Clicking on element ndaNextButton
+[2025-09-03T06:56:08.743Z] [DEBUG] Clicked on element ndaNextButton
+[2025-09-03T06:56:08.746Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:56:11.062Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-09-03T06:56:18.593Z] [INFO] Clicking on element done Button
+[2025-09-03T06:56:19.090Z] [DEBUG] Clicked on element done Button
+[2025-09-03T06:56:19.092Z] [INFO] Clicking on element preview Text
+[2025-09-03T06:56:20.058Z] [DEBUG] Clicked on element preview Text
+[2025-09-03T16:41:25.958Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:41:26.350Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:41:26.350Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T16:41:26.438Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T16:41:26.440Z] [INFO] Clicking on element login Button
+[2025-09-03T16:41:29.285Z] [DEBUG] Clicked on element login Button
+[2025-09-03T16:41:29.288Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T16:41:39.316Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T16:41:43.011Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:41:43.338Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:41:43.340Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T16:41:43.533Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T16:41:43.534Z] [INFO] Clicking on element login Button
+[2025-09-03T16:41:45.691Z] [DEBUG] Clicked on element login Button
+[2025-09-03T16:41:45.695Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T16:41:55.713Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T16:41:59.041Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:41:59.340Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:41:59.341Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T16:41:59.474Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T16:41:59.474Z] [INFO] Clicking on element login Button
+[2025-09-03T16:42:01.992Z] [DEBUG] Clicked on element login Button
+[2025-09-03T16:42:01.997Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T16:42:12.033Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T16:42:15.411Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:42:15.670Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:42:15.671Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T16:42:15.811Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T16:42:15.812Z] [INFO] Clicking on element login Button
+[2025-09-03T16:42:18.288Z] [DEBUG] Clicked on element login Button
+[2025-09-03T16:42:18.292Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T16:42:28.319Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T16:42:31.895Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:42:32.192Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:42:32.193Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T16:42:32.402Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T16:42:32.403Z] [INFO] Clicking on element login Button
+[2025-09-03T16:42:34.556Z] [DEBUG] Clicked on element login Button
+[2025-09-03T16:42:34.563Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T16:42:44.583Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T16:42:47.747Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:42:49.139Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:42:49.140Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T16:42:49.581Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T16:42:49.581Z] [INFO] Clicking on element login Button
+[2025-09-03T16:42:52.628Z] [DEBUG] Clicked on element login Button
+[2025-09-03T16:42:52.635Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T16:43:02.653Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T16:43:05.995Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:43:06.456Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:43:06.457Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T16:43:06.591Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T16:43:06.592Z] [INFO] Clicking on element login Button
+[2025-09-03T16:43:09.026Z] [DEBUG] Clicked on element login Button
+[2025-09-03T16:43:09.031Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T16:43:19.044Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T16:43:22.028Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:43:22.333Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:43:22.333Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T16:43:22.478Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T16:43:22.481Z] [INFO] Clicking on element login Button
+[2025-09-03T16:43:24.663Z] [DEBUG] Clicked on element login Button
+[2025-09-03T16:43:24.667Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T16:43:34.680Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T16:43:37.539Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:43:38.052Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T16:43:38.053Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T16:43:38.153Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T16:43:38.154Z] [INFO] Clicking on element login Button
+[2025-09-03T16:43:40.453Z] [DEBUG] Clicked on element login Button
+[2025-09-03T16:43:40.458Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T16:43:50.503Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:13:41.285Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:13:41.827Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:13:41.830Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:13:41.919Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:13:41.923Z] [INFO] Clicking on element login Button
+[2025-09-03T17:13:44.570Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:13:44.582Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:13:54.602Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:13:58.036Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:13:59.195Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:13:59.196Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:13:59.790Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:13:59.791Z] [INFO] Clicking on element login Button
+[2025-09-03T17:14:00.933Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:14:00.946Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:14:11.051Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:14:13.931Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:14.325Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:14.326Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:14.385Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:14.386Z] [INFO] Clicking on element login Button
+[2025-09-03T17:14:15.405Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:14:15.419Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:14:25.458Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:14:28.263Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:28.492Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:28.492Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:28.635Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:28.636Z] [INFO] Clicking on element login Button
+[2025-09-03T17:14:29.575Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:14:29.583Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:14:33.126Z] [ERROR] Failed to click on element setUp Icon: Error: locator.waitFor: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:14:35.718Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:36.044Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:36.045Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:36.220Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:36.221Z] [INFO] Clicking on element login Button
+[2025-09-03T17:14:36.878Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:14:36.891Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:14:36.909Z] [ERROR] Failed to click on element setUp Icon: Error: locator.waitFor: Target page, context or browser has been closed
+[2025-09-03T17:14:39.282Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:39.848Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:39.850Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:40.063Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:40.064Z] [INFO] Clicking on element login Button
+[2025-09-03T17:14:40.174Z] [ERROR] Failed to click on element login Button: Error: locator.waitFor: Target page, context or browser has been closed
+[2025-09-03T17:14:42.975Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:43.962Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:43.963Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:44.167Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:44.168Z] [INFO] Clicking on element login Button
+[2025-09-03T17:14:44.285Z] [ERROR] Failed to click on element login Button: Error: locator.waitFor: Target page, context or browser has been closed
+[2025-09-03T17:14:46.631Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:47.113Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:47.115Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:47.313Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:47.314Z] [INFO] Clicking on element login Button
+[2025-09-03T17:14:47.681Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:14:47.705Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:14:47.722Z] [ERROR] Failed to click on element setUp Icon: Error: locator.waitFor: Target page, context or browser has been closed
+[2025-09-03T17:14:50.082Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:50.554Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:14:50.556Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:50.813Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:14:50.815Z] [INFO] Clicking on element login Button
+[2025-09-03T17:14:51.164Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:14:51.169Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:14:51.187Z] [ERROR] Failed to click on element setUp Icon: Error: locator.waitFor: Target page, context or browser has been closed
+[2025-09-03T17:23:41.412Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:23:41.684Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:23:41.685Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:23:41.896Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:23:41.897Z] [INFO] Clicking on element login Button
+[2025-09-03T17:23:42.453Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:23:42.458Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:23:52.533Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:23:55.728Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:23:56.030Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:23:56.032Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:23:56.154Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:23:56.155Z] [INFO] Clicking on element login Button
+[2025-09-03T17:23:57.082Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:23:57.089Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:24:07.143Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:24:09.937Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:24:10.528Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:24:10.530Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:24:10.612Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:24:10.613Z] [INFO] Clicking on element login Button
+[2025-09-03T17:24:11.641Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:24:11.651Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:24:21.787Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:24:24.880Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:24:25.304Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:24:25.306Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:24:25.435Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:24:25.435Z] [INFO] Clicking on element login Button
+[2025-09-03T17:24:26.402Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:24:26.408Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:24:36.439Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:24:39.395Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:24:39.795Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:24:39.796Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:24:39.894Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:24:39.894Z] [INFO] Clicking on element login Button
+[2025-09-03T17:24:40.868Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:24:40.875Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:24:50.930Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:24:53.471Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:24:53.798Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:24:53.798Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:24:53.887Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:24:53.888Z] [INFO] Clicking on element login Button
+[2025-09-03T17:24:54.822Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:24:54.835Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:25:04.928Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:25:07.708Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:25:08.007Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:25:08.008Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:25:08.207Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:25:08.207Z] [INFO] Clicking on element login Button
+[2025-09-03T17:25:09.032Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:25:09.035Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:25:19.064Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:25:22.060Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:25:22.479Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:25:22.481Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:25:22.688Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:25:22.690Z] [INFO] Clicking on element login Button
+[2025-09-03T17:25:23.678Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:25:23.686Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:25:33.759Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-03T17:25:36.891Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:25:37.181Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-03T17:25:37.185Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-03T17:25:37.274Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-03T17:25:37.275Z] [INFO] Clicking on element login Button
+[2025-09-03T17:25:38.240Z] [DEBUG] Clicked on element login Button
+[2025-09-03T17:25:38.245Z] [INFO] Clicking on element setUp Icon
+[2025-09-03T17:25:48.304Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+

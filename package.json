@@ -1,0 +1,62 @@
+{
+  "name": "lockton-tl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "results:clean": "node -e \"const fs=require('fs'),p='test-results';if(fs.existsSync(p)){for(const f of fs.readdirSync(p)){if(f.endsWith('.json')){try{fs.unlinkSync(p+'\\\\'+f)}catch{}}}}\"",
+    "prepare-results": "npm run -s results:clean && node -e \"require('fs').mkdirSync('test-results',{recursive:true})\"",
+    "pretest:nda": "node -e \"const fs=require('fs'),path=require('path');['videos','traces'].forEach(dir=>{if(fs.existsSync(dir)){fs.readdirSync(dir).forEach(f=>{const p=path.join(dir,f);if(fs.lstatSync(p).isFile()){fs.unlinkSync(p);}});}})\"",
+    "test:sanity": "npm run pretest:nda && npm run -s prepare-results && node scripts/run-nda-with-report.js",
+    "test:nda:raw": "node node_modules/@cucumber/cucumber/bin/cucumber.js -c config/cucumber.json --import ts-node/register --require features/support/hooks.ts --require features/step-definitions/nda/nda-all.steps.ts --format json:test-results/cucumber-report.json features/nda/nda-all.feature",
+    "test:nbil": "npm run -s prepare-results && node node_modules/@cucumber/cucumber/bin/cucumber.js -c config/cucumber.json --import ts-node/register --require features/support/hooks.ts --require features/step-definitions/nbil/nbil-all.steps.ts --format json:test-results/cucumber-report.json features/nbil/nbil-all.feature && npm run -s generate-report",
+    "test:nbil:regression": "npm run -s prepare-results && node node_modules/@cucumber/cucumber/bin/cucumber.js -c config/cucumber.json --import ts-node/register --require features/support/hooks.ts --require features/step-definitions/nbil/nbil-all.steps.ts --format json:test-results/cucumber-report.json features/nbilRegressionSuite/nbil-regression.feature && npm run -s generate-report",
+    "test:opportunity": "npm run -s prepare-results && npx cucumber-js --require-module ts-node/register --require features/support/hooks.ts --require features/step-definitions/CommonStepDefinitions/commonsteps.ts --format json:test-results/cucumber-report.json features/opportunityCreation/Opportunity.feature && npm run -s generate-report",
+    "nda:run": "node scripts/run-nda-with-report.js",
+    "clean-report": "node -e \"const fs=require('fs');const p='html-report';if(fs.existsSync(p)){try{fs.rmSync(p,{recursive:true,force:true})}catch{}}\"",
+    "clean-cucumber": "del test-results\\cucumber-report.html",
+    "report": "allure generate --clean && allure open",
+    "generate-report": "npm run -s clean-report && node scripts/generate-report.js",
+    "generate-html-report": "npm run -s generate-report",
+    "posttest:nda": "npm run -s generate-report",
+    "report:open": "start \"\" html-report\\index.html",
+    "posttest": "npx ts-node src/helper/helper.ts",
+    "prepare": "husky install",
+    "lint": "eslint . -c config/.eslintrc.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.0.10",
+    "allure-playwright": "^3.3.0",
+    "cucumberjs-allure-reporter": "^1.0.3",
+    "eslint": "^9.34.0",
+    "husky": "^8.0.0",
+    "lint-staged": "^16.1.6",
+    "multiple-cucumber-html-reporter": "^3.9.3",
+    "prettier": "^3.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "@shelex/cypress-allure-plugin": "^2.41.2",
+    "csv-parse": "^5.6.0",
+    "dotenv": "^17.2.1",
+    "playwright": "^1.55.0",
+    "xlsx": "^0.18.5"
+  },
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest",
+        "--isolated",
+        "--storage-state={path/to/storage.json}"
+      ]
+    }
+  }
+}

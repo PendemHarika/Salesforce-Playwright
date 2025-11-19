@@ -1,0 +1,32 @@
+{
+  "validNda": {
+    "scenarioName": "Reps & Warranties",
+    "clientName": "Amy Wright",
+    "account": "1000 Miglia SRL123",
+    "recordType": "NDA",
+    "opportunityType": "Reps & Warranties",
+    "subType": "Buyer-side R&W",
+    "carrier": "Chubb",
+    "message": "Test"
+  },
+  "taxLiabilityNda": {
+    "scenarioName": "Tax Liability",
+    "clientName": "Amy Wright",
+    "account": "Lockton",
+    "recordType": "NDA",
+    "opportunityType": "Tax Liability",
+    "subType": "Tax Credit",
+    "carrier": "Ambridge",
+    "message": "Test"
+  },
+  "contingentLiabilityNda": {
+    "scenarioName": "Contingent Liability",
+    "clientName": "Amy Wright",
+    "account": "Lockton",
+    "recordType": "NDA",
+    "opportunityType": "Contingent Liability",
+    "subType": "Contingent Portfolio",
+    "carrier": "Chubb",
+    "message": "Test"
+  }
+}

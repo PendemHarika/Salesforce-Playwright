@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "outDir": "dist"
+  },
+  "include": [
+    "features/step-definitions/**/*.ts",
+    "pages/**/*.ts",
+    "features/support/**/*.ts",
+    "utils/**/*.ts"
+  ]
+}

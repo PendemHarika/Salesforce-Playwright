@@ -1,0 +1,87 @@
+You are Playwright MCP server.  
+Your task is to convert the below manual Salesforce test steps into a **Cucumber BDD test suite** with Playwright + TypeScript.  
+
+### Required Output
+1. **Feature File** (`/features/meaningfulnamingrelventwithbusinesscenario.feature`)
+   - Write clear Gherkin scenarios (`Given/When/Then`) covering all listed steps.
+   - Use business-readable language for stakeholders.
+   - Reuse nda-all.feature and nbil-all.feature if the re
+
+2. **Step Definitions** (`/stepDefinitions/Smeaningfulnamingrelventwithbusinesscenario.steps.ts`)
+   - Implement each Gherkin step.
+   - Reuse utilities from `/utils` folder (e.g., `dateUtils.ts`, `emailUtils.ts`, `fileUtils.ts`).
+   - Ensure async/await with Playwright APIs.
+
+3. **Page Objects** (`/pages/*.ts`)
+   - Create Page Object classes for:
+     - `LoginPage.ts`
+     - `HomePage.ts`
+     - `AccountPage.ts`
+     - `OpportunityPage.ts`
+     - `NDARequestPage.ts`
+   - Store all selectors in `/locators.json` and reference them dynamically inside Page Objects.
+
+4. **Reusable Utilities**
+   - Use `/utils/validationUtils.ts` for field validations.
+   - Use `/utils/emailUtils.ts` for email verification.
+   - Use `/utils/dateUtils.ts` for date handling and validation.
+
+5. **Locator Strategy**
+   - Extract all locators to `/locators.json`.
+   - Ensure selectors are **unique, stable, and non-flaky** (prefer `data-testid`, `aria-label`, or role-based locators).
+   - Do not hardcode selectors inside step files.
+
+---
+
+### Test Scenario: Salesforce NDA Request Flow
+
+1. Login to SF with valid credentials.  
+2. Click on Setup Button and setup menuitem from Dropdown.  
+3. Click on Home Dropdown and select "Accounts".  
+4. Select an Account with Record Type = "Client".  
+5. Navigate to **Related tab** → "Open Opportunities" → "New".  
+6. Choose **Initial Intake** → click **Next**.  
+7. Fill "Opportunity Name".  
+8. Select a Stage.  
+9. Enter "Target Close Date" (mm/dd/yyyy).  
+10. Validate Insurance Type = "Reps & Warranties".  
+11. Select Insurance Sub-Type.  
+12. Enter "Target".  
+13. Save.  
+14. Enter "Quote Due Date" → validate not past.  
+15. Click "NDA Request".  
+16. Move required markets from Available Carriers → Selected Carriers.  
+17. Validate Template = "NDA Only".  
+18. Click Next.  
+19. Validate CC = Opportunity Team Members.  
+20. Add email to CC.  
+21. Validate Subject = "Opportunity Name - NDA - ".  
+22. Append extra text to Subject.  
+23. Upload files.  
+24. Validate files appear in attachments.  
+25. Validate NDA Preview template info.  
+26. Add info in Email Preview.  
+27. Send.  
+28. Validate Opportunity Stage = "Quoting".  
+29. Validate Probability = 75%.  
+30. Validate NDA email received for selected carriers.  
+31. Validate To = Market Email.  
+32. Validate CC = previously added CC.  
+33. Validate NDA Email appears in Activity Feed.  
+
+---
+
+### Constraints
+- Follow **Page Object Model (POM)** strictly.  
+- Use Cucumber hooks (`Before`, `After`) for login and teardown.  
+- Keep feature file clean (only business steps, no technical details).  
+- Ensure reusability across future SF flows.  
+
+---
+
+### Final Deliverables
+- `/features/SF_Opportunity_NDA.feature`
+- `/stepDefinitions/SF_Opportunity_NDA.steps.ts`
+- `/pages/*.ts` (Page Objects)
+- `/utils/*.ts` (date, email, validation, file helpers)
+- `/locators.json` (all selectors)

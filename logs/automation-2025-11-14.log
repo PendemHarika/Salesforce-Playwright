@@ -1,0 +1,1383 @@
+[2025-11-14T12:06:17.135Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:06:17.759Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:06:17.772Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:06:18.034Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:06:18.039Z] [INFO] Clicking on element login Button
+[2025-11-14T12:06:21.108Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:07:32.672Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:07:33.161Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:07:33.168Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:07:33.496Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:07:33.504Z] [INFO] Clicking on element login Button
+[2025-11-14T12:07:37.000Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:07:44.133Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:07:45.072Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:07:55.836Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:08:01.225Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:08:24.387Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:08:24.875Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:08:24.946Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:08:25.458Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:08:29.909Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:08:31.831Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:08:32.019Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:08:32.628Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:08:32.776Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:08:33.776Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:08:33.889Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:08:35.895Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:08:36.286Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:08:36.932Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:08:38.910Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:08:40.517Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:08:40.528Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:08:45.014Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:08:45.024Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:08:50.411Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:08:50.416Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:08:53.120Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:08:53.129Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:08:54.797Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:08:57.639Z] [INFO] Sending text 'auto ytzjd' to opportunity Name
+[2025-11-14T12:08:58.962Z] [DEBUG] Sent text 'auto ytzjd' to opportunity Name
+[2025-11-14T12:08:59.224Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:09:00.497Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:09:27.061Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:09:27.597Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:09:27.606Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:09:27.902Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:09:27.910Z] [INFO] Clicking on element login Button
+[2025-11-14T12:09:31.721Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:09:39.155Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:09:40.126Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:09:51.854Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:09:52.659Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:10:14.994Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:10:17.495Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:10:19.344Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:10:20.183Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:10:23.057Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:10:23.664Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:10:23.725Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:10:24.090Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:10:24.212Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:10:24.858Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:10:24.991Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:10:26.458Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:10:26.957Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:10:28.824Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:10:29.881Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:10:30.431Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:10:30.435Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:10:35.208Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:10:35.216Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:10:37.434Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:10:37.437Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:10:39.069Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:10:39.072Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:10:39.848Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:10:42.076Z] [INFO] Sending text 'auto pugaf' to opportunity Name
+[2025-11-14T12:10:42.812Z] [DEBUG] Sent text 'auto pugaf' to opportunity Name
+[2025-11-14T12:10:42.934Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:10:43.746Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:11:09.235Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:11:09.581Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:11:09.586Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:11:09.814Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:11:09.822Z] [INFO] Clicking on element login Button
+[2025-11-14T12:11:13.394Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:11:20.550Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:11:21.625Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:11:32.932Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:11:36.243Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:12:21.813Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:12:23.049Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:12:23.243Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:12:24.143Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:12:26.752Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:12:27.699Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:12:27.862Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:12:28.555Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:12:28.717Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:12:29.892Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:12:30.024Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:12:34.680Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:12:35.068Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:12:36.100Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:12:36.940Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:12:37.998Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:12:38.004Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:12:43.318Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:12:43.327Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:12:46.733Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:12:46.739Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:12:49.178Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:12:49.183Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:12:50.478Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:12:52.850Z] [INFO] Sending text 'auto sgwym' to opportunity Name
+[2025-11-14T12:12:54.018Z] [DEBUG] Sent text 'auto sgwym' to opportunity Name
+[2025-11-14T12:12:54.268Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:12:55.486Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:12:55.728Z] [INFO] Clicking on element stage Value
+[2025-11-14T12:12:56.832Z] [DEBUG] Clicked on element stage Value
+[2025-11-14T12:12:57.923Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-11-14T12:12:59.142Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-11-14T12:12:59.152Z] [INFO] Clicking on element insurance Type field
+[2025-11-14T12:13:00.377Z] [DEBUG] Clicked on element insurance Type field
+[2025-11-14T12:13:02.619Z] [INFO] Clicking on element save Button
+[2025-11-14T12:13:04.202Z] [DEBUG] Clicked on element save Button
+[2025-11-14T12:13:10.816Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:13:12.614Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:13:17.177Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:13:18.460Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:13:18.704Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:13:19.912Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:13:19.918Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:13:22.629Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:13:23.098Z] [INFO] Subject field is validated successfully with opportunity name.
+[2025-11-14T12:13:29.147Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:13:30.390Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:13:37.265Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:13:38.483Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:13:45.599Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:13:46.086Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:13:46.994Z] [INFO] Clicking on element Previous Button
+[2025-11-14T12:13:47.597Z] [DEBUG] Clicked on element Previous Button
+[2025-11-14T12:13:49.676Z] [INFO] Clicking on element Next Button
+[2025-11-14T12:13:50.208Z] [DEBUG] Clicked on element Next Button
+[2025-11-14T12:13:53.503Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:13:53.841Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:13:59.495Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:14:00.043Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:14:06.237Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:14:06.836Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:14:12.726Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:14:13.657Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:14:19.742Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:14:20.354Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:14:22.925Z] [INFO] Clicking on element Close Duplicate Error Button
+[2025-11-14T12:14:23.599Z] [DEBUG] Clicked on element Close Duplicate Error Button
+[2025-11-14T12:14:23.851Z] [INFO] Clicking on element Delete file button
+[2025-11-14T12:14:24.305Z] [DEBUG] Clicked on element Delete file button
+[2025-11-14T12:14:24.384Z] [INFO] Clicking on element preview Text
+[2025-11-14T12:14:24.956Z] [DEBUG] Clicked on element preview Text
+[2025-11-14T12:14:25.289Z] [INFO] Clicking on element send Button
+[2025-11-14T12:14:25.729Z] [DEBUG] Clicked on element send Button
+[2025-11-14T12:14:40.032Z] [INFO] Clicking on element activity Tab
+[2025-11-14T12:14:40.580Z] [DEBUG] Clicked on element activity Tab
+[2025-11-14T12:14:41.037Z] [INFO] Scrolling attempt 1
+[2025-11-14T12:14:41.671Z] [INFO] Scrolling attempt 2
+[2025-11-14T12:14:42.364Z] [INFO] Scrolling attempt 3
+[2025-11-14T12:14:43.045Z] [INFO] Scrolling attempt 4
+[2025-11-14T12:14:43.650Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:14:45.864Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:14:46.460Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:14:49.795Z] [INFO] Clicking on element Close Files Sub Tab
+[2025-11-14T12:14:50.116Z] [DEBUG] Clicked on element Close Files Sub Tab
+[2025-11-14T12:14:50.132Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:14:50.941Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:14:52.577Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:14:52.931Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:14:53.003Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:14:53.326Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:14:53.335Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:14:54.750Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:15:00.052Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:15:00.418Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:15:06.180Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:15:06.517Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:15:07.261Z] [INFO] Clicking on element Close NDA/NBIL Flow Button
+[2025-11-14T12:15:07.630Z] [DEBUG] Clicked on element Close NDA/NBIL Flow Button
+[2025-11-14T12:15:10.853Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:15:13.087Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:15:13.775Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:15:35.005Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:15:35.363Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:15:35.365Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:15:35.525Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:15:35.529Z] [INFO] Clicking on element login Button
+[2025-11-14T12:15:38.884Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:15:45.074Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:15:45.431Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:15:53.232Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:15:53.675Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:16:11.447Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:16:12.119Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:16:12.213Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:16:12.564Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:16:14.060Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:16:14.547Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:16:14.620Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:16:14.851Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:16:14.919Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:16:15.514Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:16:15.599Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:16:16.750Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:16:16.789Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:16:17.061Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:16:18.030Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:16:18.544Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:16:18.551Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:16:23.589Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:16:23.593Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:16:33.175Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:16:33.180Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:16:35.963Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:16:35.968Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:16:37.542Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:16:39.921Z] [INFO] Sending text 'auto zgpsv' to opportunity Name
+[2025-11-14T12:16:40.961Z] [DEBUG] Sent text 'auto zgpsv' to opportunity Name
+[2025-11-14T12:16:41.134Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:16:42.299Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:16:42.516Z] [INFO] Clicking on element stage Value
+[2025-11-14T12:16:43.511Z] [DEBUG] Clicked on element stage Value
+[2025-11-14T12:16:44.482Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-11-14T12:16:45.701Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-11-14T12:16:45.704Z] [INFO] Clicking on element insurance Type field
+[2025-11-14T12:16:47.077Z] [DEBUG] Clicked on element insurance Type field
+[2025-11-14T12:16:49.318Z] [INFO] Clicking on element save Button
+[2025-11-14T12:16:50.427Z] [DEBUG] Clicked on element save Button
+[2025-11-14T12:16:55.810Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:16:58.055Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:17:00.373Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:17:01.091Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:17:01.173Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:17:01.582Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:17:01.586Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:17:04.080Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:17:04.235Z] [INFO] Subject field is validated successfully with opportunity name.
+[2025-11-14T12:17:09.640Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:17:10.754Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:17:17.465Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:17:18.563Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:17:25.215Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:17:26.308Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:17:27.505Z] [INFO] Clicking on element Previous Button
+[2025-11-14T12:17:28.618Z] [DEBUG] Clicked on element Previous Button
+[2025-11-14T12:17:30.803Z] [INFO] Clicking on element Next Button
+[2025-11-14T12:17:31.783Z] [DEBUG] Clicked on element Next Button
+[2025-11-14T12:17:35.797Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:17:36.787Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:17:43.382Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:17:44.959Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:17:51.663Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:17:52.797Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:17:59.504Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:18:00.658Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:18:08.007Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:18:09.116Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:18:11.928Z] [INFO] Clicking on element Close Duplicate Error Button
+[2025-11-14T12:18:13.174Z] [DEBUG] Clicked on element Close Duplicate Error Button
+[2025-11-14T12:18:13.417Z] [INFO] Clicking on element Delete file button
+[2025-11-14T12:18:14.472Z] [DEBUG] Clicked on element Delete file button
+[2025-11-14T12:18:14.711Z] [INFO] Clicking on element preview Text
+[2025-11-14T12:18:15.839Z] [DEBUG] Clicked on element preview Text
+[2025-11-14T12:18:16.558Z] [INFO] Clicking on element send Button
+[2025-11-14T12:18:17.748Z] [DEBUG] Clicked on element send Button
+[2025-11-14T12:18:36.412Z] [INFO] Clicking on element activity Tab
+[2025-11-14T12:18:36.781Z] [DEBUG] Clicked on element activity Tab
+[2025-11-14T12:18:37.457Z] [INFO] Scrolling attempt 1
+[2025-11-14T12:18:38.186Z] [INFO] Scrolling attempt 2
+[2025-11-14T12:18:38.952Z] [INFO] Scrolling attempt 3
+[2025-11-14T12:18:39.970Z] [INFO] Scrolling attempt 4
+[2025-11-14T12:18:40.749Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:18:43.021Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:18:43.486Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:18:46.682Z] [INFO] Clicking on element Close Files Sub Tab
+[2025-11-14T12:18:46.878Z] [DEBUG] Clicked on element Close Files Sub Tab
+[2025-11-14T12:18:46.882Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:18:47.873Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:18:49.175Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:18:49.625Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:18:49.720Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:18:50.075Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:18:50.080Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:18:51.676Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:18:56.908Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:18:57.187Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:19:02.912Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:19:03.337Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:19:04.064Z] [INFO] Clicking on element Close NDA/NBIL Flow Button
+[2025-11-14T12:19:04.507Z] [DEBUG] Clicked on element Close NDA/NBIL Flow Button
+[2025-11-14T12:19:07.652Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:19:09.773Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:19:10.258Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:19:27.477Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:19:27.977Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:19:27.982Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:19:28.127Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:19:28.130Z] [INFO] Clicking on element login Button
+[2025-11-14T12:19:30.178Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:19:37.750Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:19:38.124Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:19:45.481Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:19:48.316Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:20:11.037Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:20:11.674Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:20:11.742Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:20:12.244Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:20:13.772Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:20:14.239Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:20:14.280Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:20:14.535Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:20:14.604Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:20:15.057Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:20:15.113Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:20:15.634Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:20:17.009Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:20:17.479Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:20:18.626Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:20:19.066Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:20:19.074Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:20:23.563Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:20:23.582Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:20:27.516Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:20:27.519Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:20:29.930Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:20:29.935Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:20:31.397Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:20:34.220Z] [INFO] Sending text 'auto lnlyo' to opportunity Name
+[2025-11-14T12:20:35.419Z] [DEBUG] Sent text 'auto lnlyo' to opportunity Name
+[2025-11-14T12:20:35.633Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:20:37.002Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:20:37.246Z] [INFO] Clicking on element stage Value
+[2025-11-14T12:20:38.517Z] [DEBUG] Clicked on element stage Value
+[2025-11-14T12:20:40.310Z] [INFO] Clicking on element insurance DropDown
+[2025-11-14T12:20:41.573Z] [DEBUG] Clicked on element insurance DropDown
+[2025-11-14T12:20:41.783Z] [INFO] Clicking on element Insurance Type Option
+[2025-11-14T12:20:42.492Z] [DEBUG] Clicked on element Insurance Type Option
+[2025-11-14T12:20:42.494Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-11-14T12:20:43.086Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-11-14T12:20:43.089Z] [INFO] Clicking on element insurance Type field
+[2025-11-14T12:20:43.706Z] [DEBUG] Clicked on element insurance Type field
+[2025-11-14T12:20:45.794Z] [INFO] Clicking on element save Button
+[2025-11-14T12:20:46.757Z] [DEBUG] Clicked on element save Button
+[2025-11-14T12:20:52.091Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:20:53.760Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:20:55.748Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:20:56.857Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:20:56.961Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:20:58.089Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:20:58.094Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:21:00.549Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:21:01.010Z] [INFO] Subject field is validated successfully with opportunity name.
+[2025-11-14T12:21:06.400Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:21:07.397Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:21:13.804Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:21:15.481Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:21:22.040Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:21:23.249Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:21:24.576Z] [INFO] Clicking on element Previous Button
+[2025-11-14T12:21:25.970Z] [DEBUG] Clicked on element Previous Button
+[2025-11-14T12:21:28.193Z] [INFO] Clicking on element Next Button
+[2025-11-14T12:21:29.320Z] [DEBUG] Clicked on element Next Button
+[2025-11-14T12:21:33.250Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:21:34.389Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:21:40.768Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:21:42.056Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:21:48.524Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:21:49.629Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:21:55.994Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:21:57.101Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:22:04.536Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:22:05.803Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:22:08.709Z] [INFO] Clicking on element Close Duplicate Error Button
+[2025-11-14T12:22:10.132Z] [DEBUG] Clicked on element Close Duplicate Error Button
+[2025-11-14T12:22:10.464Z] [INFO] Clicking on element Delete file button
+[2025-11-14T12:22:11.660Z] [DEBUG] Clicked on element Delete file button
+[2025-11-14T12:22:11.870Z] [INFO] Clicking on element preview Text
+[2025-11-14T12:22:13.161Z] [DEBUG] Clicked on element preview Text
+[2025-11-14T12:22:13.849Z] [INFO] Clicking on element send Button
+[2025-11-14T12:22:15.314Z] [DEBUG] Clicked on element send Button
+[2025-11-14T12:22:30.819Z] [INFO] Clicking on element activity Tab
+[2025-11-14T12:22:33.403Z] [DEBUG] Clicked on element activity Tab
+[2025-11-14T12:22:34.231Z] [INFO] Scrolling attempt 1
+[2025-11-14T12:22:35.013Z] [INFO] Scrolling attempt 2
+[2025-11-14T12:22:35.773Z] [INFO] Scrolling attempt 3
+[2025-11-14T12:22:37.061Z] [INFO] Scrolling attempt 4
+[2025-11-14T12:22:37.881Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:22:40.281Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:22:41.302Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:23:37.633Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:23:37.964Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:23:37.967Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:23:38.208Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:23:38.212Z] [INFO] Clicking on element login Button
+[2025-11-14T12:23:42.991Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:23:53.421Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:23:55.821Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:24:05.299Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:24:10.149Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:24:34.939Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:24:37.954Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:24:38.375Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:24:40.066Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:24:41.942Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:24:42.939Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:24:43.164Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:24:43.856Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:24:44.027Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:24:45.169Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:24:45.316Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:24:48.526Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:24:48.756Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:24:50.072Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:24:51.319Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:24:52.426Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:24:52.433Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:24:58.571Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:24:58.580Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:25:03.905Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:25:03.910Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:25:06.210Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:25:06.214Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:25:07.750Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:25:10.547Z] [INFO] Sending text 'auto osjbd' to opportunity Name
+[2025-11-14T12:25:11.752Z] [DEBUG] Sent text 'auto osjbd' to opportunity Name
+[2025-11-14T12:25:11.993Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:25:13.342Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:25:13.575Z] [INFO] Clicking on element stage Value
+[2025-11-14T12:25:14.845Z] [DEBUG] Clicked on element stage Value
+[2025-11-14T12:25:16.553Z] [INFO] Clicking on element insurance DropDown
+[2025-11-14T12:25:17.785Z] [DEBUG] Clicked on element insurance DropDown
+[2025-11-14T12:25:18.265Z] [INFO] Clicking on element Insurance Type Option
+[2025-11-14T12:25:19.477Z] [DEBUG] Clicked on element Insurance Type Option
+[2025-11-14T12:25:19.482Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-11-14T12:25:20.640Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-11-14T12:25:20.645Z] [INFO] Clicking on element insurance Type field
+[2025-11-14T12:25:21.934Z] [DEBUG] Clicked on element insurance Type field
+[2025-11-14T12:25:24.157Z] [INFO] Clicking on element save Button
+[2025-11-14T12:25:25.558Z] [DEBUG] Clicked on element save Button
+[2025-11-14T12:25:31.383Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:25:33.663Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:25:36.622Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:25:38.225Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:25:38.488Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:25:39.964Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:25:39.969Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:25:42.718Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:25:43.167Z] [INFO] Subject field is validated successfully with opportunity name.
+[2025-11-14T12:25:49.512Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:25:50.805Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:25:57.587Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:25:58.818Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:26:05.754Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:26:07.020Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:26:08.005Z] [INFO] Clicking on element Previous Button
+[2025-11-14T12:26:09.163Z] [DEBUG] Clicked on element Previous Button
+[2025-11-14T12:26:11.348Z] [INFO] Clicking on element Next Button
+[2025-11-14T12:26:12.398Z] [DEBUG] Clicked on element Next Button
+[2025-11-14T12:26:16.308Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:26:17.358Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:26:23.771Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:26:24.934Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:26:31.575Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:26:32.955Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:26:39.729Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:26:41.166Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:26:48.457Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:26:49.787Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:26:52.600Z] [INFO] Clicking on element Close Duplicate Error Button
+[2025-11-14T12:26:53.918Z] [DEBUG] Clicked on element Close Duplicate Error Button
+[2025-11-14T12:26:54.160Z] [INFO] Clicking on element Delete file button
+[2025-11-14T12:26:55.119Z] [DEBUG] Clicked on element Delete file button
+[2025-11-14T12:26:55.320Z] [INFO] Clicking on element preview Text
+[2025-11-14T12:26:56.352Z] [DEBUG] Clicked on element preview Text
+[2025-11-14T12:26:57.022Z] [INFO] Clicking on element send Button
+[2025-11-14T12:26:58.210Z] [DEBUG] Clicked on element send Button
+[2025-11-14T12:27:16.486Z] [INFO] Clicking on element activity Tab
+[2025-11-14T12:27:17.273Z] [DEBUG] Clicked on element activity Tab
+[2025-11-14T12:27:18.053Z] [INFO] Scrolling attempt 1
+[2025-11-14T12:27:18.865Z] [INFO] Scrolling attempt 2
+[2025-11-14T12:27:19.651Z] [INFO] Scrolling attempt 3
+[2025-11-14T12:27:20.611Z] [INFO] Scrolling attempt 4
+[2025-11-14T12:27:21.379Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:27:23.789Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:27:24.707Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:27:28.184Z] [INFO] Clicking on element Close Files Sub Tab
+[2025-11-14T12:27:28.563Z] [DEBUG] Clicked on element Close Files Sub Tab
+[2025-11-14T12:27:28.572Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:27:29.475Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:27:31.241Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:27:31.530Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:27:31.574Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:27:31.910Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:27:31.916Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:27:33.595Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:27:38.811Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:27:39.027Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:27:44.575Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:27:44.785Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:27:45.464Z] [INFO] Clicking on element Close NDA/NBIL Flow Button
+[2025-11-14T12:27:45.966Z] [DEBUG] Clicked on element Close NDA/NBIL Flow Button
+[2025-11-14T12:27:49.172Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:27:51.285Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:27:51.699Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:28:08.465Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:28:08.876Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:28:08.878Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:28:08.975Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:28:08.980Z] [INFO] Clicking on element login Button
+[2025-11-14T12:28:11.010Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:28:16.710Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:28:16.970Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:28:24.256Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:28:24.874Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:28:50.741Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:28:52.757Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:28:52.961Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:28:53.849Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:28:55.806Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:28:56.677Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:28:56.898Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:28:57.572Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:28:57.729Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:28:58.820Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:28:58.944Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:29:02.182Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:29:02.416Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:29:03.570Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:29:04.321Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:29:05.335Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:29:05.343Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:29:10.756Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:29:10.768Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:29:15.679Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:29:15.685Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:29:18.672Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:29:18.678Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:29:20.191Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:29:22.581Z] [INFO] Sending text 'auto psize' to opportunity Name
+[2025-11-14T12:29:23.696Z] [DEBUG] Sent text 'auto psize' to opportunity Name
+[2025-11-14T12:29:23.960Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:29:25.174Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:29:25.439Z] [INFO] Clicking on element stage Value
+[2025-11-14T12:29:26.554Z] [DEBUG] Clicked on element stage Value
+[2025-11-14T12:29:28.290Z] [INFO] Clicking on element insurance DropDown
+[2025-11-14T12:29:29.646Z] [DEBUG] Clicked on element insurance DropDown
+[2025-11-14T12:29:30.122Z] [INFO] Clicking on element Insurance Type Option
+[2025-11-14T12:29:31.217Z] [DEBUG] Clicked on element Insurance Type Option
+[2025-11-14T12:29:31.223Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-11-14T12:29:32.363Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-11-14T12:29:32.369Z] [INFO] Clicking on element insurance Type field
+[2025-11-14T12:29:33.462Z] [DEBUG] Clicked on element insurance Type field
+[2025-11-14T12:29:35.678Z] [INFO] Clicking on element save Button
+[2025-11-14T12:29:36.742Z] [DEBUG] Clicked on element save Button
+[2025-11-14T12:29:42.442Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:29:44.272Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:29:46.643Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:29:47.697Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:29:47.922Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:29:49.092Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:29:49.097Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:29:52.066Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:29:52.501Z] [INFO] Subject field is validated successfully with opportunity name.
+[2025-11-14T12:29:58.666Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:29:59.875Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:30:06.595Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:30:07.848Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:30:14.574Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:30:15.792Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:30:16.808Z] [INFO] Clicking on element Previous Button
+[2025-11-14T12:30:17.887Z] [DEBUG] Clicked on element Previous Button
+[2025-11-14T12:30:20.084Z] [INFO] Clicking on element Next Button
+[2025-11-14T12:30:21.166Z] [DEBUG] Clicked on element Next Button
+[2025-11-14T12:30:25.121Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:30:26.141Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:30:32.527Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:30:33.804Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:30:40.396Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:30:41.717Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:30:48.198Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:30:49.485Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:30:56.849Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:30:58.045Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:31:00.833Z] [INFO] Clicking on element Close Duplicate Error Button
+[2025-11-14T12:31:02.061Z] [DEBUG] Clicked on element Close Duplicate Error Button
+[2025-11-14T12:31:02.369Z] [INFO] Clicking on element Delete file button
+[2025-11-14T12:31:03.833Z] [DEBUG] Clicked on element Delete file button
+[2025-11-14T12:31:04.057Z] [INFO] Clicking on element preview Text
+[2025-11-14T12:31:05.215Z] [DEBUG] Clicked on element preview Text
+[2025-11-14T12:31:06.004Z] [INFO] Clicking on element send Button
+[2025-11-14T12:31:07.465Z] [DEBUG] Clicked on element send Button
+[2025-11-14T12:31:26.583Z] [INFO] Clicking on element activity Tab
+[2025-11-14T12:31:27.278Z] [DEBUG] Clicked on element activity Tab
+[2025-11-14T12:31:28.357Z] [INFO] Scrolling attempt 1
+[2025-11-14T12:31:29.108Z] [INFO] Scrolling attempt 2
+[2025-11-14T12:31:30.139Z] [INFO] Scrolling attempt 3
+[2025-11-14T12:31:31.148Z] [INFO] Scrolling attempt 4
+[2025-11-14T12:31:31.930Z] [INFO] Scrolling attempt 5
+[2025-11-14T12:31:32.764Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:31:35.076Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:31:36.068Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:31:39.479Z] [INFO] Clicking on element Close Files Sub Tab
+[2025-11-14T12:31:39.858Z] [DEBUG] Clicked on element Close Files Sub Tab
+[2025-11-14T12:31:39.866Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:31:41.017Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:31:42.834Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:31:43.333Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:31:43.433Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:31:44.015Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:31:44.022Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:31:45.956Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:31:51.439Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:31:52.094Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:31:57.989Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:31:58.446Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:31:59.369Z] [INFO] Clicking on element Close NDA/NBIL Flow Button
+[2025-11-14T12:32:00.208Z] [DEBUG] Clicked on element Close NDA/NBIL Flow Button
+[2025-11-14T12:32:03.457Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:32:05.803Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:32:06.989Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:32:52.979Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:32:53.661Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:32:53.674Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:32:53.910Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:32:53.916Z] [INFO] Clicking on element login Button
+[2025-11-14T12:32:58.457Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:33:05.388Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:33:06.687Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:33:17.528Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:33:22.322Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:33:40.225Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:33:40.748Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:33:40.819Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:33:46.767Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:33:54.319Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:33:57.419Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:33:57.617Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:33:58.505Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:33:58.869Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:34:00.662Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:34:00.883Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:34:03.705Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:34:05.323Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:34:06.330Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:34:07.125Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:34:09.317Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:34:09.326Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:34:10.222Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:34:10.231Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:34:12.167Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:34:12.170Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:34:14.100Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:34:14.104Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:34:15.414Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:34:18.289Z] [INFO] Sending text 'auto lqmub' to opportunity Name
+[2025-11-14T12:34:19.169Z] [DEBUG] Sent text 'auto lqmub' to opportunity Name
+[2025-11-14T12:34:19.431Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:34:20.875Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:34:21.089Z] [INFO] Clicking on element stage Value
+[2025-11-14T12:34:22.394Z] [DEBUG] Clicked on element stage Value
+[2025-11-14T12:34:24.512Z] [INFO] Clicking on element insurance DropDown
+[2025-11-14T12:34:25.678Z] [DEBUG] Clicked on element insurance DropDown
+[2025-11-14T12:34:26.134Z] [INFO] Clicking on element Insurance Type Option
+[2025-11-14T12:34:27.293Z] [DEBUG] Clicked on element Insurance Type Option
+[2025-11-14T12:34:27.299Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-11-14T12:34:28.293Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-11-14T12:34:28.298Z] [INFO] Clicking on element insurance Type field
+[2025-11-14T12:34:29.348Z] [DEBUG] Clicked on element insurance Type field
+[2025-11-14T12:34:31.544Z] [INFO] Clicking on element save Button
+[2025-11-14T12:34:32.758Z] [DEBUG] Clicked on element save Button
+[2025-11-14T12:34:37.989Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:34:40.396Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:34:42.768Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:34:44.573Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:34:44.756Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:34:45.819Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:34:45.823Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:34:47.969Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:34:48.450Z] [INFO] Subject field is validated successfully with opportunity name.
+[2025-11-14T12:34:53.922Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:34:55.420Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:35:02.086Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:35:03.560Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:35:10.362Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:35:11.928Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:35:13.132Z] [INFO] Clicking on element Previous Button
+[2025-11-14T12:35:14.463Z] [DEBUG] Clicked on element Previous Button
+[2025-11-14T12:35:16.734Z] [INFO] Clicking on element Next Button
+[2025-11-14T12:35:18.068Z] [DEBUG] Clicked on element Next Button
+[2025-11-14T12:35:21.974Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:35:23.059Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:35:29.438Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:35:30.761Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:35:37.513Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:35:38.750Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:35:45.506Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:35:46.968Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:35:54.493Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:35:55.673Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:35:58.623Z] [INFO] Clicking on element Close Duplicate Error Button
+[2025-11-14T12:35:59.445Z] [DEBUG] Clicked on element Close Duplicate Error Button
+[2025-11-14T12:35:59.729Z] [INFO] Clicking on element Delete file button
+[2025-11-14T12:36:01.065Z] [DEBUG] Clicked on element Delete file button
+[2025-11-14T12:36:01.323Z] [INFO] Clicking on element preview Text
+[2025-11-14T12:36:02.545Z] [DEBUG] Clicked on element preview Text
+[2025-11-14T12:36:03.293Z] [INFO] Clicking on element send Button
+[2025-11-14T12:36:04.906Z] [DEBUG] Clicked on element send Button
+[2025-11-14T12:36:23.346Z] [INFO] Clicking on element activity Tab
+[2025-11-14T12:36:25.237Z] [DEBUG] Clicked on element activity Tab
+[2025-11-14T12:36:25.989Z] [INFO] Scrolling attempt 1
+[2025-11-14T12:36:26.723Z] [INFO] Scrolling attempt 2
+[2025-11-14T12:36:27.469Z] [INFO] Scrolling attempt 3
+[2025-11-14T12:36:28.682Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:36:31.120Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:36:32.209Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:36:35.604Z] [INFO] Clicking on element Close Files Sub Tab
+[2025-11-14T12:36:36.139Z] [DEBUG] Clicked on element Close Files Sub Tab
+[2025-11-14T12:36:36.174Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:36:37.435Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:36:39.430Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:36:40.210Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:36:40.323Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:36:40.919Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:36:40.941Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:36:42.888Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:36:48.287Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:36:48.753Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:36:54.575Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:36:55.101Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:36:55.879Z] [INFO] Clicking on element Close NDA/NBIL Flow Button
+[2025-11-14T12:36:56.384Z] [DEBUG] Clicked on element Close NDA/NBIL Flow Button
+[2025-11-14T12:36:59.683Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:37:01.985Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:37:02.858Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:37:46.024Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:37:46.414Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:37:46.420Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:37:46.704Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:37:46.710Z] [INFO] Clicking on element login Button
+[2025-11-14T12:37:51.087Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:37:59.296Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:38:00.326Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:38:11.772Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:38:16.953Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:38:43.981Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:38:45.750Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:38:46.030Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:38:52.471Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:38:55.374Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:38:57.857Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:38:58.088Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:38:59.082Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:38:59.238Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:39:00.577Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:39:00.689Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:39:05.431Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:39:05.643Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:39:06.425Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:39:07.668Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:39:10.264Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:39:10.271Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:39:10.861Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:39:10.867Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:39:12.886Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:39:12.891Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:39:15.397Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:39:15.400Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:39:16.997Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:39:19.432Z] [INFO] Sending text 'auto qmghf' to opportunity Name
+[2025-11-14T12:39:20.250Z] [DEBUG] Sent text 'auto qmghf' to opportunity Name
+[2025-11-14T12:39:20.407Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:39:21.315Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:39:21.458Z] [INFO] Clicking on element stage Value
+[2025-11-14T12:39:22.189Z] [DEBUG] Clicked on element stage Value
+[2025-11-14T12:39:23.472Z] [INFO] Clicking on element insurance DropDown
+[2025-11-14T12:39:24.144Z] [DEBUG] Clicked on element insurance DropDown
+[2025-11-14T12:39:24.389Z] [INFO] Clicking on element Insurance Type Option
+[2025-11-14T12:39:24.980Z] [DEBUG] Clicked on element Insurance Type Option
+[2025-11-14T12:39:24.984Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-11-14T12:39:25.575Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-11-14T12:39:25.581Z] [INFO] Clicking on element insurance Type field
+[2025-11-14T12:39:26.251Z] [DEBUG] Clicked on element insurance Type field
+[2025-11-14T12:39:28.384Z] [INFO] Clicking on element save Button
+[2025-11-14T12:39:28.994Z] [DEBUG] Clicked on element save Button
+[2025-11-14T12:39:33.242Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:39:34.400Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:39:36.544Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:39:37.717Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:39:37.916Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:39:38.809Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:39:38.813Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:39:40.925Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:39:41.177Z] [INFO] Subject field is validated successfully with opportunity name.
+[2025-11-14T12:39:47.075Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:39:48.026Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:39:54.149Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:39:54.456Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:40:00.577Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:40:01.030Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:40:01.774Z] [INFO] Clicking on element Previous Button
+[2025-11-14T12:40:02.098Z] [DEBUG] Clicked on element Previous Button
+[2025-11-14T12:40:04.154Z] [INFO] Clicking on element Next Button
+[2025-11-14T12:40:04.484Z] [DEBUG] Clicked on element Next Button
+[2025-11-14T12:40:07.714Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:40:07.987Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:40:13.335Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:40:13.722Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:40:19.633Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:40:20.004Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:40:25.771Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:40:26.115Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:40:32.056Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:40:32.485Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:40:34.884Z] [INFO] Clicking on element Close Duplicate Error Button
+[2025-11-14T12:40:35.314Z] [DEBUG] Clicked on element Close Duplicate Error Button
+[2025-11-14T12:40:35.457Z] [INFO] Clicking on element Delete file button
+[2025-11-14T12:40:35.829Z] [DEBUG] Clicked on element Delete file button
+[2025-11-14T12:40:35.879Z] [INFO] Clicking on element preview Text
+[2025-11-14T12:40:36.220Z] [DEBUG] Clicked on element preview Text
+[2025-11-14T12:40:36.485Z] [INFO] Clicking on element send Button
+[2025-11-14T12:40:36.870Z] [DEBUG] Clicked on element send Button
+[2025-11-14T12:40:48.527Z] [INFO] Clicking on element activity Tab
+[2025-11-14T12:40:48.779Z] [DEBUG] Clicked on element activity Tab
+[2025-11-14T12:40:49.686Z] [INFO] Scrolling attempt 1
+[2025-11-14T12:40:50.291Z] [INFO] Scrolling attempt 2
+[2025-11-14T12:40:50.892Z] [INFO] Scrolling attempt 3
+[2025-11-14T12:40:51.476Z] [INFO] Scrolling attempt 4
+[2025-11-14T12:40:52.037Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:40:54.137Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:40:54.442Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:40:57.588Z] [INFO] Clicking on element Close Files Sub Tab
+[2025-11-14T12:40:57.767Z] [DEBUG] Clicked on element Close Files Sub Tab
+[2025-11-14T12:40:57.772Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:40:58.317Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:41:00.128Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:41:00.314Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:41:00.341Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:41:00.535Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:41:00.539Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:41:02.047Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:41:07.213Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:41:07.451Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:41:13.440Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:41:13.654Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:41:14.255Z] [INFO] Clicking on element Close NDA/NBIL Flow Button
+[2025-11-14T12:41:14.426Z] [DEBUG] Clicked on element Close NDA/NBIL Flow Button
+[2025-11-14T12:41:17.556Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:41:19.648Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:41:19.949Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:41:38.438Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:41:38.874Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:41:38.876Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:41:38.956Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:41:38.958Z] [INFO] Clicking on element login Button
+[2025-11-14T12:41:41.154Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:41:45.505Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:41:45.709Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:41:52.992Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:41:57.100Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:42:15.810Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:42:17.519Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:42:17.600Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:42:17.920Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:42:19.324Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:42:19.642Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:42:19.707Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:42:19.887Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:42:19.937Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:42:20.231Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:42:20.266Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:42:20.637Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:42:20.693Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:42:21.532Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:42:22.453Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:42:22.667Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:42:22.670Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:42:25.348Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:42:25.354Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:42:26.677Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:42:26.679Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:42:27.781Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:42:27.783Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:42:28.207Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:42:29.759Z] [INFO] Sending text 'auto qiler' to opportunity Name
+[2025-11-14T12:42:30.000Z] [DEBUG] Sent text 'auto qiler' to opportunity Name
+[2025-11-14T12:42:30.048Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:42:30.397Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:42:30.449Z] [INFO] Clicking on element stage Value
+[2025-11-14T12:42:30.719Z] [DEBUG] Clicked on element stage Value
+[2025-11-14T12:42:31.249Z] [INFO] Clicking on element insurance DropDown
+[2025-11-14T12:42:31.608Z] [DEBUG] Clicked on element insurance DropDown
+[2025-11-14T12:42:31.724Z] [INFO] Clicking on element Insurance Type Option
+[2025-11-14T12:42:32.016Z] [DEBUG] Clicked on element Insurance Type Option
+[2025-11-14T12:42:32.017Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-11-14T12:42:32.354Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-11-14T12:42:32.356Z] [INFO] Clicking on element insurance Type field
+[2025-11-14T12:42:32.675Z] [DEBUG] Clicked on element insurance Type field
+[2025-11-14T12:42:34.740Z] [INFO] Clicking on element save Button
+[2025-11-14T12:42:35.065Z] [DEBUG] Clicked on element save Button
+[2025-11-14T12:42:39.229Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:42:39.876Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:42:41.717Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:42:42.066Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:42:42.137Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:42:42.580Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:42:42.582Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:42:44.195Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:42:44.310Z] [INFO] Subject field is validated successfully with opportunity name.
+[2025-11-14T12:42:49.711Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:42:50.040Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:42:55.920Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:42:56.375Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:43:02.217Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:43:02.593Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:43:03.225Z] [INFO] Clicking on element Previous Button
+[2025-11-14T12:43:03.519Z] [DEBUG] Clicked on element Previous Button
+[2025-11-14T12:43:05.566Z] [INFO] Clicking on element Next Button
+[2025-11-14T12:43:05.915Z] [DEBUG] Clicked on element Next Button
+[2025-11-14T12:43:09.131Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:43:09.394Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:43:14.766Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:43:15.124Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:43:21.079Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:43:21.442Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:43:27.294Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:43:27.752Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:43:33.729Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:43:34.117Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:43:36.431Z] [INFO] Clicking on element Close Duplicate Error Button
+[2025-11-14T12:43:36.804Z] [DEBUG] Clicked on element Close Duplicate Error Button
+[2025-11-14T12:43:36.901Z] [INFO] Clicking on element Delete file button
+[2025-11-14T12:43:37.240Z] [DEBUG] Clicked on element Delete file button
+[2025-11-14T12:43:37.290Z] [INFO] Clicking on element preview Text
+[2025-11-14T12:43:37.610Z] [DEBUG] Clicked on element preview Text
+[2025-11-14T12:43:37.849Z] [INFO] Clicking on element send Button
+[2025-11-14T12:43:38.164Z] [DEBUG] Clicked on element send Button
+[2025-11-14T12:43:47.840Z] [INFO] Clicking on element activity Tab
+[2025-11-14T12:43:48.068Z] [DEBUG] Clicked on element activity Tab
+[2025-11-14T12:43:48.534Z] [INFO] Scrolling attempt 1
+[2025-11-14T12:43:49.163Z] [INFO] Scrolling attempt 2
+[2025-11-14T12:43:49.746Z] [INFO] Scrolling attempt 3
+[2025-11-14T12:43:50.362Z] [INFO] Scrolling attempt 4
+[2025-11-14T12:43:50.925Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:43:53.016Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:43:53.312Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:43:56.446Z] [INFO] Clicking on element Close Files Sub Tab
+[2025-11-14T12:43:56.663Z] [DEBUG] Clicked on element Close Files Sub Tab
+[2025-11-14T12:43:56.665Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:43:57.171Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:43:58.901Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:43:59.096Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:43:59.127Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:43:59.323Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:43:59.326Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:44:00.408Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:44:05.580Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:44:05.751Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:44:11.363Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:44:11.568Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:44:12.213Z] [INFO] Clicking on element Close NDA/NBIL Flow Button
+[2025-11-14T12:44:12.384Z] [DEBUG] Clicked on element Close NDA/NBIL Flow Button
+[2025-11-14T12:44:15.585Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:44:17.720Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:44:18.115Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:44:31.450Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:44:31.848Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:44:31.851Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:44:31.919Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:44:31.922Z] [INFO] Clicking on element login Button
+[2025-11-14T12:44:33.937Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:44:40.103Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:44:40.382Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:44:49.472Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:44:50.133Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:45:10.200Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:45:12.127Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:45:12.280Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:45:12.896Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:45:14.669Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:45:15.266Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:45:15.379Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:45:15.784Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:45:15.903Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:45:16.530Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:45:16.669Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:45:18.782Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:45:18.995Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:45:19.539Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:45:20.583Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:45:21.272Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:45:21.275Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:45:26.411Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:45:26.416Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:45:29.411Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:45:29.414Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:45:31.116Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:45:31.119Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:45:31.865Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:45:33.812Z] [INFO] Sending text 'auto xxuad' to opportunity Name
+[2025-11-14T12:45:34.533Z] [DEBUG] Sent text 'auto xxuad' to opportunity Name
+[2025-11-14T12:45:34.688Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:45:35.227Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:45:35.342Z] [INFO] Clicking on element stage Value
+[2025-11-14T12:45:36.064Z] [DEBUG] Clicked on element stage Value
+[2025-11-14T12:45:37.077Z] [INFO] Clicking on element insurance DropDown
+[2025-11-14T12:45:37.806Z] [DEBUG] Clicked on element insurance DropDown
+[2025-11-14T12:45:38.037Z] [INFO] Clicking on element Insurance Type Option
+[2025-11-14T12:45:38.850Z] [DEBUG] Clicked on element Insurance Type Option
+[2025-11-14T12:45:38.851Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-11-14T12:45:39.606Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-11-14T12:45:39.607Z] [INFO] Clicking on element insurance Type field
+[2025-11-14T12:45:40.373Z] [DEBUG] Clicked on element insurance Type field
+[2025-11-14T12:45:42.518Z] [INFO] Clicking on element save Button
+[2025-11-14T12:45:43.246Z] [DEBUG] Clicked on element save Button
+[2025-11-14T12:45:47.345Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:45:48.320Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:45:49.856Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:45:50.868Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:45:51.005Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:45:51.866Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:45:51.868Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:45:53.733Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:45:53.950Z] [INFO] Subject field is validated successfully with opportunity name.
+[2025-11-14T12:45:59.453Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:46:00.119Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:46:06.103Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:46:06.893Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:46:12.956Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:46:14.039Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:46:14.788Z] [INFO] Clicking on element Previous Button
+[2025-11-14T12:46:15.480Z] [DEBUG] Clicked on element Previous Button
+[2025-11-14T12:46:17.618Z] [INFO] Clicking on element Next Button
+[2025-11-14T12:46:18.307Z] [DEBUG] Clicked on element Next Button
+[2025-11-14T12:46:21.971Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:46:22.628Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:46:28.514Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:46:29.568Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:46:35.707Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:46:36.501Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:46:42.536Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:46:43.305Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:46:49.959Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:46:51.060Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:46:53.601Z] [INFO] Clicking on element Close Duplicate Error Button
+[2025-11-14T12:46:54.540Z] [DEBUG] Clicked on element Close Duplicate Error Button
+[2025-11-14T12:46:54.758Z] [INFO] Clicking on element Delete file button
+[2025-11-14T12:46:55.577Z] [DEBUG] Clicked on element Delete file button
+[2025-11-14T12:46:55.711Z] [INFO] Clicking on element preview Text
+[2025-11-14T12:46:56.575Z] [DEBUG] Clicked on element preview Text
+[2025-11-14T12:46:57.041Z] [INFO] Clicking on element send Button
+[2025-11-14T12:46:58.107Z] [DEBUG] Clicked on element send Button
+[2025-11-14T12:47:13.002Z] [INFO] Clicking on element activity Tab
+[2025-11-14T12:47:13.489Z] [DEBUG] Clicked on element activity Tab
+[2025-11-14T12:47:14.122Z] [INFO] Scrolling attempt 1
+[2025-11-14T12:47:14.819Z] [INFO] Scrolling attempt 2
+[2025-11-14T12:47:15.460Z] [INFO] Scrolling attempt 3
+[2025-11-14T12:47:16.182Z] [INFO] Scrolling attempt 4
+[2025-11-14T12:47:16.881Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:47:19.077Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:47:19.728Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:47:22.978Z] [INFO] Clicking on element Close Files Sub Tab
+[2025-11-14T12:47:23.260Z] [DEBUG] Clicked on element Close Files Sub Tab
+[2025-11-14T12:47:23.265Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:47:24.038Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:47:25.748Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:47:26.067Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:47:26.112Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:47:26.503Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:47:26.508Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:47:27.782Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:47:33.116Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:47:33.484Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:47:39.312Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:47:39.734Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:47:40.352Z] [INFO] Clicking on element Close NDA/NBIL Flow Button
+[2025-11-14T12:47:40.788Z] [DEBUG] Clicked on element Close NDA/NBIL Flow Button
+[2025-11-14T12:47:43.962Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:47:46.190Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:47:46.837Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:48:27.043Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:48:27.604Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T12:48:27.608Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T12:48:27.812Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T12:48:27.824Z] [INFO] Clicking on element login Button
+[2025-11-14T12:48:31.482Z] [DEBUG] Clicked on element login Button
+[2025-11-14T12:48:37.710Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T12:48:38.370Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T12:48:48.128Z] [INFO] Clicking on element user Search Result
+[2025-11-14T12:48:53.305Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T12:49:23.444Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T12:49:24.871Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T12:49:25.044Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T12:49:25.976Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T12:49:28.618Z] [INFO] Clicking on element list View Element
+[2025-11-14T12:49:29.394Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T12:49:29.560Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:49:30.197Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T12:49:30.348Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T12:49:31.663Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T12:49:31.840Z] [INFO] Clicking on element global Search Button
+[2025-11-14T12:49:36.608Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T12:49:36.821Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:49:37.598Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T12:49:38.615Z] [INFO] Clicking on element global Search Result
+[2025-11-14T12:49:39.058Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T12:49:39.064Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T12:49:43.347Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T12:49:43.356Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T12:49:46.432Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T12:49:46.436Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T12:49:47.895Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T12:49:47.898Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T12:49:48.549Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T12:49:50.246Z] [INFO] Sending text 'auto ipigz' to opportunity Name
+[2025-11-14T12:49:50.742Z] [DEBUG] Sent text 'auto ipigz' to opportunity Name
+[2025-11-14T12:49:50.832Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T12:49:51.342Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T12:49:51.421Z] [INFO] Clicking on element stage Value
+[2025-11-14T12:49:51.869Z] [DEBUG] Clicked on element stage Value
+[2025-11-14T12:49:52.687Z] [INFO] Clicking on element insurance DropDown
+[2025-11-14T12:49:53.144Z] [DEBUG] Clicked on element insurance DropDown
+[2025-11-14T12:49:53.329Z] [INFO] Clicking on element Insurance Type Option
+[2025-11-14T12:49:53.792Z] [DEBUG] Clicked on element Insurance Type Option
+[2025-11-14T12:49:53.797Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-11-14T12:49:54.287Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-11-14T12:49:54.290Z] [INFO] Clicking on element insurance Type field
+[2025-11-14T12:49:54.810Z] [DEBUG] Clicked on element insurance Type field
+[2025-11-14T12:49:56.896Z] [INFO] Clicking on element save Button
+[2025-11-14T12:49:57.360Z] [DEBUG] Clicked on element save Button
+[2025-11-14T12:50:00.729Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:50:01.932Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:50:04.203Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:50:04.953Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:50:05.089Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:50:05.764Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:50:05.771Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:50:07.722Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:50:07.905Z] [INFO] Subject field is validated successfully with opportunity name.
+[2025-11-14T12:50:13.299Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:50:13.780Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:50:19.923Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:50:20.383Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:50:26.576Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:50:27.180Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:50:28.217Z] [INFO] Clicking on element Previous Button
+[2025-11-14T12:50:28.894Z] [DEBUG] Clicked on element Previous Button
+[2025-11-14T12:50:30.988Z] [INFO] Clicking on element Next Button
+[2025-11-14T12:50:31.585Z] [DEBUG] Clicked on element Next Button
+[2025-11-14T12:50:35.223Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:50:35.726Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com' to email Id
+[2025-11-14T12:50:41.441Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:50:42.014Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:50:48.324Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:50:49.222Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:50:55.672Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:50:56.851Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:51:04.081Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:51:04.920Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:51:07.455Z] [INFO] Clicking on element Close Duplicate Error Button
+[2025-11-14T12:51:08.337Z] [DEBUG] Clicked on element Close Duplicate Error Button
+[2025-11-14T12:51:08.587Z] [INFO] Clicking on element Delete file button
+[2025-11-14T12:51:09.335Z] [DEBUG] Clicked on element Delete file button
+[2025-11-14T12:51:09.488Z] [INFO] Clicking on element preview Text
+[2025-11-14T12:51:10.390Z] [DEBUG] Clicked on element preview Text
+[2025-11-14T12:51:10.904Z] [INFO] Clicking on element send Button
+[2025-11-14T12:51:11.602Z] [DEBUG] Clicked on element send Button
+[2025-11-14T12:51:27.909Z] [INFO] Clicking on element activity Tab
+[2025-11-14T12:51:29.279Z] [DEBUG] Clicked on element activity Tab
+[2025-11-14T12:51:29.873Z] [INFO] Scrolling attempt 1
+[2025-11-14T12:51:30.706Z] [INFO] Scrolling attempt 2
+[2025-11-14T12:51:31.394Z] [INFO] Scrolling attempt 3
+[2025-11-14T12:51:32.257Z] [INFO] Scrolling attempt 4
+[2025-11-14T12:51:33.012Z] [INFO] Scrolling attempt 5
+[2025-11-14T12:51:33.650Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:51:35.792Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:51:36.371Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T12:51:39.609Z] [INFO] Clicking on element Close Files Sub Tab
+[2025-11-14T12:51:39.860Z] [DEBUG] Clicked on element Close Files Sub Tab
+[2025-11-14T12:51:39.870Z] [INFO] Clicking on element NDA New Button
+[2025-11-14T12:51:40.839Z] [DEBUG] Clicked on element NDA New Button
+[2025-11-14T12:51:42.408Z] [INFO] Clicking on element all Carriers Value 
+[2025-11-14T12:51:42.875Z] [DEBUG] Clicked on element all Carriers Value 
+[2025-11-14T12:51:42.953Z] [INFO] Clicking on element ndaNextButton
+[2025-11-14T12:51:43.280Z] [DEBUG] Clicked on element ndaNextButton
+[2025-11-14T12:51:43.284Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:51:47.804Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to email Id
+[2025-11-14T12:51:53.208Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:51:53.574Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:51:59.576Z] [INFO] Clicking on element Done Button
+[2025-11-14T12:51:59.848Z] [DEBUG] Clicked on element Done Button
+[2025-11-14T12:52:00.613Z] [INFO] Clicking on element Close NDA/NBIL Flow Button
+[2025-11-14T12:52:00.916Z] [DEBUG] Clicked on element Close NDA/NBIL Flow Button
+[2025-11-14T12:52:04.072Z] [INFO] Element became visible during scroll.
+[2025-11-14T12:52:06.252Z] [INFO] Clicking on element View All Files Button
+[2025-11-14T12:52:06.902Z] [DEBUG] Clicked on element View All Files Button
+[2025-11-14T14:05:42.128Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:05:42.871Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:05:42.882Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T14:05:43.120Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T14:05:43.126Z] [INFO] Clicking on element login Button
+[2025-11-14T14:05:47.079Z] [DEBUG] Clicked on element login Button
+[2025-11-14T14:06:57.446Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:06:57.960Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:06:57.972Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T14:06:58.319Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T14:06:58.328Z] [INFO] Clicking on element login Button
+[2025-11-14T14:07:02.357Z] [DEBUG] Clicked on element login Button
+[2025-11-14T14:17:20.314Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:17:20.779Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:17:20.781Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T14:17:20.950Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T14:17:20.952Z] [INFO] Clicking on element login Button
+[2025-11-14T14:17:25.141Z] [DEBUG] Clicked on element login Button
+[2025-11-14T14:17:42.321Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T14:17:42.580Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T14:17:55.018Z] [INFO] Clicking on element user Search Result
+[2025-11-14T14:18:01.503Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T14:18:34.939Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T14:18:35.270Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T14:18:35.339Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T14:18:35.646Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T14:18:39.372Z] [INFO] Clicking on element list View Element
+[2025-11-14T14:18:40.850Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T14:18:40.967Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T14:18:41.451Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T14:18:41.642Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T14:18:42.376Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T14:18:42.462Z] [INFO] Clicking on element global Search Button
+[2025-11-14T14:18:43.109Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T14:18:43.362Z] [INFO] Sending text 'Hecht Partners, LLP' to global Search Input
+[2025-11-14T14:18:45.280Z] [DEBUG] Sent text 'Hecht Partners, LLP' to global Search Input
+[2025-11-14T14:18:47.307Z] [INFO] Clicking on element global Search Result
+[2025-11-14T14:18:47.917Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T14:18:47.924Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T14:18:53.431Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T14:18:53.447Z] [INFO] Clicking on element new Opportunity Button
+[2025-11-14T14:18:58.082Z] [DEBUG] Clicked on element new Opportunity Button
+[2025-11-14T14:18:58.087Z] [INFO] Clicking on element intial Intake Button
+[2025-11-14T14:18:59.905Z] [DEBUG] Clicked on element intial Intake Button
+[2025-11-14T14:18:59.910Z] [INFO] Clicking on element opportunity Next Button
+[2025-11-14T14:19:00.627Z] [DEBUG] Clicked on element opportunity Next Button
+[2025-11-14T14:19:02.638Z] [INFO] Sending text 'auto qwdzb' to opportunity Name
+[2025-11-14T14:19:03.206Z] [DEBUG] Sent text 'auto qwdzb' to opportunity Name
+[2025-11-14T14:19:03.326Z] [INFO] Clicking on element stage DropDown
+[2025-11-14T14:19:03.910Z] [DEBUG] Clicked on element stage DropDown
+[2025-11-14T14:19:04.028Z] [INFO] Clicking on element stage Value
+[2025-11-14T14:19:04.542Z] [DEBUG] Clicked on element stage Value
+[2025-11-14T14:19:05.050Z] [INFO] Clicking on element insurance Sub Type Drop Down
+[2025-11-14T14:19:05.520Z] [DEBUG] Clicked on element insurance Sub Type Drop Down
+[2025-11-14T14:19:05.524Z] [INFO] Clicking on element insurance Type field
+[2025-11-14T14:19:06.123Z] [DEBUG] Clicked on element insurance Type field
+[2025-11-14T14:19:08.217Z] [INFO] Clicking on element save Button
+[2025-11-14T14:19:08.893Z] [DEBUG] Clicked on element save Button
+[2025-11-14T14:19:08.907Z] [INFO] Clicking on element show More Actions DropDown
+[2025-11-14T14:19:11.812Z] [ERROR] Failed to click on element show More Actions DropDown: Error: locator.waitFor: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('xpath=(//span[text()=\'Show more actions\']/parent::button)[last()]')[22m
+
+[2025-11-14T14:20:15.147Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:20:15.594Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:20:15.598Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T14:20:15.790Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T14:20:15.795Z] [INFO] Clicking on element login Button
+[2025-11-14T14:20:18.555Z] [DEBUG] Clicked on element login Button
+[2025-11-14T14:20:36.714Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T14:20:37.461Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T14:20:46.539Z] [INFO] Clicking on element user Search Result
+[2025-11-14T14:20:52.900Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T14:21:19.858Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T14:21:22.048Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T14:21:22.167Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T14:21:22.729Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T14:21:24.465Z] [INFO] Clicking on element list View Element
+[2025-11-14T14:21:25.024Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T14:21:25.106Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T14:21:25.455Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T14:21:25.545Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T14:21:26.235Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T14:21:26.299Z] [INFO] Clicking on element global Search Button
+[2025-11-14T14:21:27.842Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T14:21:27.944Z] [INFO] Sending text 'Hecht Partners, LLP' to global Search Input
+[2025-11-14T14:21:28.431Z] [DEBUG] Sent text 'Hecht Partners, LLP' to global Search Input
+[2025-11-14T14:21:29.567Z] [INFO] Clicking on element global Search Result
+[2025-11-14T14:21:30.165Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T14:21:30.175Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T14:21:33.702Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T14:21:33.713Z] [INFO] Clicking on element existing Opportunity
+[2025-11-14T14:21:35.707Z] [DEBUG] Clicked on element existing Opportunity
+[2025-11-14T14:21:35.715Z] [INFO] Clicking on element show More Actions DropDown
+[2025-11-14T14:21:39.136Z] [DEBUG] Clicked on element show More Actions DropDown
+[2025-11-14T14:21:39.140Z] [INFO] Clicking on element manage Opportunity Assignment Option
+[2025-11-14T14:21:39.975Z] [DEBUG] Clicked on element manage Opportunity Assignment Option
+[2025-11-14T14:21:40.459Z] [INFO] Clicking on element Add Assignment Button
+[2025-11-14T14:21:43.198Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-11-14T14:21:43.420Z] [INFO] Clicking on element Add Assignment Button
+[2025-11-14T14:21:44.100Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-11-14T14:21:44.104Z] [INFO] Sending text 'Patricia Urraca' to Add Assignment Button
+[2025-11-14T14:21:44.838Z] [DEBUG] Sent text 'Patricia Urraca' to Add Assignment Button
+[2025-11-14T14:21:44.843Z] [INFO] Clicking on element personNameInList
+[2025-11-14T14:21:46.405Z] [DEBUG] Clicked on element personNameInList
+[2025-11-14T14:21:46.413Z] [INFO] Clicking on element Service LeadCheckBox
+[2025-11-14T14:21:46.963Z] [DEBUG] Clicked on element Service LeadCheckBox
+[2025-11-14T14:21:46.969Z] [INFO] Sending text '100' to Primary Producer Allocation TextBox
+[2025-11-14T14:21:47.492Z] [DEBUG] Sent text '100' to Primary Producer Allocation TextBox
+[2025-11-14T14:21:47.496Z] [INFO] Clicking on element SaveAndClose Button
+[2025-11-14T14:21:48.052Z] [DEBUG] Clicked on element SaveAndClose Button
+[2025-11-14T14:26:49.155Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:26:49.765Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:26:49.771Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T14:26:49.961Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T14:26:49.965Z] [INFO] Clicking on element login Button
+[2025-11-14T14:26:52.988Z] [DEBUG] Clicked on element login Button
+[2025-11-14T14:28:28.245Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:28:28.570Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:28:28.572Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T14:28:28.722Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T14:28:28.725Z] [INFO] Clicking on element login Button
+[2025-11-14T14:28:31.255Z] [DEBUG] Clicked on element login Button
+[2025-11-14T14:28:41.037Z] [INFO] Clicking on element setUp Icon
+[2025-11-14T14:28:41.224Z] [DEBUG] Clicked on element setUp Icon
+[2025-11-14T14:28:48.328Z] [INFO] Clicking on element user Search Result
+[2025-11-14T14:28:48.759Z] [DEBUG] Clicked on element user Search Result
+[2025-11-14T14:29:07.888Z] [INFO] Clicking on element show Navigation Menu
+[2025-11-14T14:29:08.073Z] [DEBUG] Clicked on element show Navigation Menu
+[2025-11-14T14:29:08.183Z] [INFO] Clicking on element accounts Menu Item
+[2025-11-14T14:29:09.091Z] [DEBUG] Clicked on element accounts Menu Item
+[2025-11-14T14:29:10.496Z] [INFO] Clicking on element list View Element
+[2025-11-14T14:29:10.802Z] [DEBUG] Clicked on element list View Element
+[2025-11-14T14:29:10.896Z] [INFO] Sending text 'All Clients' to searchBox ListViewInput
+[2025-11-14T14:29:11.080Z] [DEBUG] Sent text 'All Clients' to searchBox ListViewInput
+[2025-11-14T14:29:11.138Z] [INFO] Clicking on element all Clients In List View
+[2025-11-14T14:29:11.426Z] [DEBUG] Clicked on element all Clients In List View
+[2025-11-14T14:29:11.473Z] [INFO] Clicking on element global Search Button
+[2025-11-14T14:29:11.796Z] [DEBUG] Clicked on element global Search Button
+[2025-11-14T14:29:11.848Z] [INFO] Sending text '1000 Miglia SRL' to global Search Input
+[2025-11-14T14:29:12.484Z] [DEBUG] Sent text '1000 Miglia SRL' to global Search Input
+[2025-11-14T14:29:13.415Z] [INFO] Clicking on element global Search Result
+[2025-11-14T14:29:13.680Z] [DEBUG] Clicked on element global Search Result
+[2025-11-14T14:29:13.688Z] [INFO] AccountPage: Validating account record type: Client
+[2025-11-14T14:29:17.398Z] [INFO] AccountPage: Account record type 'Client' is visible.
+[2025-11-14T14:29:17.402Z] [INFO] Clicking on element existing Opportunity
+[2025-11-14T14:29:20.456Z] [DEBUG] Clicked on element existing Opportunity
+[2025-11-14T14:29:20.462Z] [INFO] Clicking on element show More Actions DropDown
+[2025-11-14T14:29:22.943Z] [DEBUG] Clicked on element show More Actions DropDown
+[2025-11-14T14:29:22.951Z] [INFO] Clicking on element manage Opportunity Assignment Option
+[2025-11-14T14:29:23.453Z] [DEBUG] Clicked on element manage Opportunity Assignment Option
+[2025-11-14T14:29:23.818Z] [INFO] Clicking on element Add Assignment Button
+[2025-11-14T14:29:25.691Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-11-14T14:29:25.912Z] [INFO] Clicking on element Add Assignment Button
+[2025-11-14T14:29:26.395Z] [DEBUG] Clicked on element Add Assignment Button
+[2025-11-14T14:29:26.399Z] [INFO] Sending text 'Patricia Urraca' to Add Assignment Button
+[2025-11-14T14:29:26.745Z] [DEBUG] Sent text 'Patricia Urraca' to Add Assignment Button
+[2025-11-14T14:29:26.749Z] [INFO] Clicking on element personNameInList
+[2025-11-14T14:29:28.058Z] [DEBUG] Clicked on element personNameInList
+[2025-11-14T14:29:28.067Z] [INFO] Clicking on element Service LeadCheckBox
+[2025-11-14T14:29:28.562Z] [DEBUG] Clicked on element Service LeadCheckBox
+[2025-11-14T14:29:28.566Z] [INFO] Sending text '100' to Primary Producer Allocation TextBox
+[2025-11-14T14:29:28.931Z] [DEBUG] Sent text '100' to Primary Producer Allocation TextBox
+[2025-11-14T14:29:28.940Z] [INFO] Clicking on element SaveAndClose Button
+[2025-11-14T14:29:29.392Z] [DEBUG] Clicked on element SaveAndClose Button
+[2025-11-14T14:48:20.744Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:48:21.091Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:48:21.100Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T14:48:21.309Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T14:48:21.315Z] [INFO] Clicking on element login Button
+[2025-11-14T14:48:23.672Z] [DEBUG] Clicked on element login Button
+[2025-11-14T14:49:25.370Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:49:25.634Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-11-14T14:49:25.642Z] [INFO] Sending text 'Charitha@89' to password Input Value
+[2025-11-14T14:49:25.788Z] [DEBUG] Sent text 'Charitha@89' to password Input Value
+[2025-11-14T14:49:25.792Z] [INFO] Clicking on element login Button
+[2025-11-14T14:49:28.122Z] [DEBUG] Clicked on element login Button

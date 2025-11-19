@@ -1,0 +1,66 @@
+[2025-09-02T17:52:28.014Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:52:28.484Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:52:28.485Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-02T17:52:28.598Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-02T17:52:28.599Z] [INFO] Clicking on element login Button
+[2025-09-02T17:52:31.387Z] [DEBUG] Clicked on element login Button
+[2025-09-02T17:52:31.389Z] [INFO] Clicking on element setUp Icon
+[2025-09-02T17:52:41.411Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-02T17:52:44.974Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:52:45.466Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:52:45.468Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-02T17:52:45.602Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-02T17:52:45.606Z] [INFO] Clicking on element login Button
+[2025-09-02T17:52:48.319Z] [DEBUG] Clicked on element login Button
+[2025-09-02T17:52:48.325Z] [INFO] Clicking on element setUp Icon
+[2025-09-02T17:52:58.346Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-02T17:53:02.385Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:53:02.928Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:53:02.931Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-02T17:53:03.126Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-02T17:53:03.129Z] [INFO] Clicking on element login Button
+[2025-09-02T17:53:05.649Z] [DEBUG] Clicked on element login Button
+[2025-09-02T17:53:05.654Z] [INFO] Clicking on element setUp Icon
+[2025-09-02T17:53:15.672Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-02T17:53:19.236Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:53:19.518Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:53:19.525Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-02T17:53:19.790Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-02T17:53:19.791Z] [INFO] Clicking on element login Button
+[2025-09-02T17:53:22.147Z] [DEBUG] Clicked on element login Button
+[2025-09-02T17:53:22.151Z] [INFO] Clicking on element setUp Icon
+[2025-09-02T17:53:32.167Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-02T17:53:36.869Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:53:37.362Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:53:37.366Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-02T17:53:37.479Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-02T17:53:37.482Z] [INFO] Clicking on element login Button
+[2025-09-02T17:53:39.867Z] [DEBUG] Clicked on element login Button
+[2025-09-02T17:53:39.874Z] [INFO] Clicking on element setUp Icon
+[2025-09-02T17:53:49.911Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+
+[2025-09-02T17:53:53.573Z] [INFO] Sending text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:53:53.964Z] [DEBUG] Sent text 'nuguri.charitha@us.lockton.com.cbqa' to username Input Value
+[2025-09-02T17:53:53.966Z] [INFO] Sending text 'Charitha@4' to password Input Value
+[2025-09-02T17:53:54.235Z] [DEBUG] Sent text 'Charitha@4' to password Input Value
+[2025-09-02T17:53:54.236Z] [INFO] Clicking on element login Button
+[2025-09-02T17:53:56.474Z] [DEBUG] Clicked on element login Button
+[2025-09-02T17:53:56.479Z] [INFO] Clicking on element setUp Icon
+[2025-09-02T17:54:06.517Z] [ERROR] Failed to click on element setUp Icon: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class,"tooltip-trigger uiTooltip")]//*[@data-key="setup"]/ancestor::a')[22m
+

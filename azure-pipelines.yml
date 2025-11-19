@@ -1,0 +1,57 @@
+trigger:
+- main
+
+parameters:
+- name: testEnv
+  displayName: 'Test Environment'
+  type: string
+  default: 'qa'
+- name: testScript
+  displayName: 'Test Script'
+  type: string
+  default: 'test:nda'
+
+jobs:
+- job: build
+  timeoutInMinutes: 180
+  pool:
+    name: az-qualizeal
+  steps:
+    - task: NodeTool@0
+      inputs:
+        versionSpec: '20.x'
+      displayName: 'Install Node.js'
+
+    - script: npm ci
+      displayName: 'Install dependencies'
+
+    - script: npx playwright install
+      displayName: 'Install Playwright browsers'
+
+    - script: node scripts/run-nda-with-report.js
+      displayName: 'Run NDA Tests and Generate Report'
+      env:
+        ENV: ${{ parameters.testEnv }}
+      continueOnError: true
+
+    - script: dir $(Build.SourcesDirectory)/html-report
+      displayName: 'List HTML Report Directory'
+      continueOnError: true
+
+    - task: PublishPipelineArtifact@1
+      inputs:
+        targetPath: '$(Build.SourcesDirectory)/html-report'
+        artifact: 'TestReport'
+        publishLocation: 'pipeline'
+
+    - script: dir $(Build.SourcesDirectory)/logs
+      displayName: 'List Logs Directory'
+      continueOnError: true
+
+    - task: PublishPipelineArtifact@1
+      inputs:
+        targetPath: '$(Build.SourcesDirectory)/logs'
+        artifact: 'Logs'
+        publishLocation: 'pipeline'
+      continueOnError: true
+
