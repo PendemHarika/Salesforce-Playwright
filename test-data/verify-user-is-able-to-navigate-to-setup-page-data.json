@@ -1,0 +1,65 @@
+{
+  "validNavigation": {
+    "scenarioName": "Verify user is able to navigate to setup page",
+    "testCaseId": "TC_02",
+    "priority": "Medium",
+    "login": {
+      "username": "corebroking.user@company.com",
+      "password": "SecurePassword123!",
+      "expectedLoginSuccess": true
+    },
+    "navigationSteps": {
+      "globalSearch": {
+        "action": "click",
+        "expectedVisible": true
+      },
+      "setupButton": {
+        "action": "click",
+        "expectedVisible": true
+      },
+      "newButton": {
+        "action": "click",
+        "expectedVisible": true
+      },
+      "importButton": {
+        "action": "click",
+        "expectedVisible": true
+      },
+      "sortButton": {
+        "action": "click",
+        "expectedVisible": true
+      }
+    },
+    "expectedResults": [
+      "User logs in SF Corebroking successfully.",
+      "User clicked on global search.",
+      "User clicked on setup button.",
+      "User clicked on New button.",
+      "User clicked on import button.",
+      "User clicked on sort button."
+    ],
+    "locators": {
+      "globalSearch": "#globalSearchInput",
+      "setupButton": "button[aria-label='Setup']",
+      "newButton": "button[title='New']",
+      "importButton": "button[title='Import']",
+      "sortButton": "button[title='Sort']"
+    },
+    "testData": {
+      "searchKeyword": "Setup",
+      "newRecordName": "Test Setup Entry",
+      "importFile": "resources/set1_a.docx",
+      "sortOrder": "Ascending",
+      "edgeCases": {
+        "emptySearchKeyword": "",
+        "invalidLogin": {
+          "username": "invalid.user@company.com",
+          "password": "WrongPassword!",
+          "expectedLoginSuccess": false
+        },
+        "unsupportedFileType": "resources/set1_c.md",
+        "longRecordName": "Averyveryveryveryverylongsetupentrynametotestmaxlength"
+      }
+    }
+  }
+}
