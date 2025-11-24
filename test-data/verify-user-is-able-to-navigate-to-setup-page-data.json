@@ -1,0 +1,61 @@
+// Test data for TC_02: Verify user is able to navigate to setup page
+{
+  "validNavigation": {
+    "scenarioName": "Valid navigation to setup page",
+    "username": "corebroking.user@company.com",
+    "password": "SecureP@ssw0rd!",
+    "globalSearchInput": "Setup",
+    "expectedSetupPageTitle": "Setup",
+    "expectedNewButtonLabel": "New",
+    "expectedImportButtonLabel": "Import",
+    "expectedSortButtonLabel": "Sort",
+    "loginSuccessMessage": "Welcome to SF Corebroking",
+    "globalSearchVisible": true,
+    "setupButtonEnabled": true,
+    "newButtonEnabled": true,
+    "importButtonEnabled": true,
+    "sortButtonEnabled": true
+  },
+  "edgeCases": {
+    "emptyUsername": {
+      "username": "",
+      "password": "SecureP@ssw0rd!",
+      "expectedError": "Username is required"
+    },
+    "emptyPassword": {
+      "username": "corebroking.user@company.com",
+      "password": "",
+      "expectedError": "Password is required"
+    },
+    "invalidCredentials": {
+      "username": "invalid.user@company.com",
+      "password": "WrongPass123",
+      "expectedError": "Invalid username or password"
+    },
+    "specialCharsInSearch": {
+      "globalSearchInput": "!@#$%^&*()_+",
+      "expectedNoResults": true
+    },
+    "longSearchInput": {
+      "globalSearchInput": "Setup" + "A".repeat(250),
+      "expectedNoResults": true
+    }
+  },
+  "boundaryValues": {
+    "minLengthSearch": {
+      "globalSearchInput": "S",
+      "expectedResultsCount": 0
+    },
+    "maxLengthSearch": {
+      "globalSearchInput": "S".repeat(255),
+      "expectedResultsCount": 0
+    }
+  },
+  "uiElements": {
+    "globalSearchSelector": "#global-search-input",
+    "setupButtonSelector": "button[aria-label='Setup']",
+    "newButtonSelector": "button[aria-label='New']",
+    "importButtonSelector": "button[aria-label='Import']",
+    "sortButtonSelector": "button[aria-label='Sort']"
+  }
+}
