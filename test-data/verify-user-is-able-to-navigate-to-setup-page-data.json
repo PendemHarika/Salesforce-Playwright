@@ -1,0 +1,76 @@
+// Test data for TC_02: Verify user is able to navigate to setup page
+{
+  "validNavigation": {
+    "scenarioName": "Valid navigation to setup page",
+    "username": "test.user@sfcorebroking.com",
+    "password": "SecurePass123!",
+    "globalSearchQuery": "Setup",
+    "expectedSetupPageTitle": "Setup | Salesforce",
+    "expectedNewButtonVisible": true,
+    "expectedImportButtonVisible": true,
+    "expectedSortButtonVisible": true,
+    "testDescription": "User logs in, navigates via global search, clicks setup, New, Import, and Sort buttons."
+  },
+  "edgeCases": {
+    "emptyUsername": {
+      "username": "",
+      "password": "SecurePass123!",
+      "expectedError": "Username is required"
+    },
+    "emptyPassword": {
+      "username": "test.user@sfcorebroking.com",
+      "password": "",
+      "expectedError": "Password is required"
+    },
+    "invalidCredentials": {
+      "username": "invalid.user@sfcorebroking.com",
+      "password": "WrongPass!",
+      "expectedError": "Invalid username or password"
+    },
+    "invalidGlobalSearch": {
+      "username": "test.user@sfcorebroking.com",
+      "password": "SecurePass123!",
+      "globalSearchQuery": "NonExistentPage",
+      "expectedSetupPageTitle": null,
+      "expectedError": "No results found"
+    },
+    "missingSetupButton": {
+      "username": "test.user@sfcorebroking.com",
+      "password": "SecurePass123!",
+      "globalSearchQuery": "Setup",
+      "expectedSetupPageTitle": null,
+      "expectedError": "Setup button not visible"
+    }
+  },
+  "buttonStates": {
+    "allButtonsEnabled": {
+      "newButtonEnabled": true,
+      "importButtonEnabled": true,
+      "sortButtonEnabled": true
+    },
+    "newButtonDisabled": {
+      "newButtonEnabled": false,
+      "importButtonEnabled": true,
+      "sortButtonEnabled": true
+    },
+    "importButtonDisabled": {
+      "newButtonEnabled": true,
+      "importButtonEnabled": false,
+      "sortButtonEnabled": true
+    },
+    "sortButtonDisabled": {
+      "newButtonEnabled": true,
+      "importButtonEnabled": true,
+      "sortButtonEnabled": false
+    }
+  },
+  "uiVerification": {
+    "locators": [
+      { "element": "globalSearchInput", "locator": "#globalSearchInput" },
+      { "element": "setupButton", "locator": "button[title='Setup']" },
+      { "element": "newButton", "locator": "button[title='New']" },
+      { "element": "importButton", "locator": "button[title='Import']" },
+      { "element": "sortButton", "locator": "button[title='Sort']" }
+    ]
+  }
+}
