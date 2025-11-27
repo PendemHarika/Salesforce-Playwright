@@ -1,0 +1,91 @@
+// Test Data for TC_001: Title not provided
+{
+  "accountCreation": {
+    "scenarioName": "Title not provided",
+    "testCaseId": "TC_001",
+    "preconditions": [
+      "Edge browser is installed"
+    ],
+    "priority": "Medium",
+    "expectedResult": "New Account is created Successfully",
+    "fields": {
+      "accountName": [
+        "Acme Corp",
+        "",
+        "A",
+        "ThisIsAVeryLongAccountNameThatExceedsNormalLimitsToTestBoundaryCases1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        null
+      ],
+      "accountType": [
+        "Customer",
+        "Partner",
+        "Prospect",
+        "",
+        null
+      ],
+      "industry": [
+        "Technology",
+        "Finance",
+        "Healthcare",
+        "",
+        null
+      ],
+      "phoneNumber": [
+        "1234567890",
+        "",
+        "0000000000",
+        "+1-800-555-0199",
+        null
+      ],
+      "email": [
+        "test@example.com",
+        "invalid-email",
+        "",
+        null
+      ]
+    },
+    "edgeCases": {
+      "missingAccountName": {
+        "accountName": "",
+        "accountType": "Customer",
+        "industry": "Technology",
+        "phoneNumber": "1234567890",
+        "email": "test@example.com",
+        "expectedError": "Account Name is required"
+      },
+      "maxLengthAccountName": {
+        "accountName": "ThisIsAVeryLongAccountNameThatExceedsNormalLimitsToTestBoundaryCases1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "accountType": "Partner",
+        "industry": "Finance",
+        "phoneNumber": "0000000000",
+        "email": "longname@example.com",
+        "expectedResult": "New Account is created Successfully"
+      },
+      "invalidEmail": {
+        "accountName": "Acme Corp",
+        "accountType": "Prospect",
+        "industry": "Healthcare",
+        "phoneNumber": "+1-800-555-0199",
+        "email": "invalid-email",
+        "expectedError": "Invalid email format"
+      },
+      "missingAllFields": {
+        "accountName": "",
+        "accountType": "",
+        "industry": "",
+        "phoneNumber": "",
+        "email": "",
+        "expectedError": "All required fields are missing"
+      }
+    },
+    "locators": {
+      "accountNameInput": "#accountName",
+      "accountTypeDropdown": "#accountType",
+      "industryDropdown": "#industry",
+      "phoneNumberInput": "#phoneNumber",
+      "emailInput": "#email",
+      "submitButton": "#submitAccount"
+    },
+    "notes": "This data file supports the creation of new accounts with various field combinations, including boundary and negative cases, as per TC_001."
+  }
+}
