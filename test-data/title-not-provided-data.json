@@ -1,0 +1,141 @@
+// Test Data for TC_001: Title not provided
+// Purpose: Data to support account creation scenarios, including edge and boundary cases
+{
+  "validAccountCreation": {
+    "scenarioName": "Valid Account Creation",
+    "browser": "Edge",
+    "accountName": "Test Account Inc.",
+    "accountType": "Standard",
+    "industry": "Technology",
+    "phone": "1234567890",
+    "email": "test.account@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Metropolis",
+      "state": "CA",
+      "zip": "90001",
+      "country": "USA"
+    },
+    "expectedResult": "New Account is created Successfully"
+  },
+  "missingRequiredFields": {
+    "scenarioName": "Missing Required Fields",
+    "browser": "Edge",
+    "accountName": "",
+    "accountType": "",
+    "industry": "",
+    "phone": "",
+    "email": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "country": ""
+    },
+    "expectedResult": "Error: Required fields missing"
+  },
+  "boundaryValues": {
+    "scenarioName": "Boundary Value Analysis",
+    "browser": "Edge",
+    "accountName": "A",
+    "accountType": "Standard",
+    "industry": "T",
+    "phone": "0000000000",
+    "email": "a@b.c",
+    "address": {
+      "street": "1",
+      "city": "C",
+      "state": "S",
+      "zip": "0",
+      "country": "U"
+    },
+    "expectedResult": "New Account is created Successfully"
+  },
+  "maxLengthFields": {
+    "scenarioName": "Max Length Fields",
+    "browser": "Edge",
+    "accountName": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", // 100 chars
+    "accountType": "Standard",
+    "industry": "Technology",
+    "phone": "999999999999999", // 15 digits
+    "email": "longemailaddresslongemailaddresslongemailaddresslongemailaddress@example.com",
+    "address": {
+      "street": "1234567890123456789012345678901234567890", // 40 chars
+      "city": "LongCityNameLongCityNameLongCityName", // 30 chars
+      "state": "LongStateName", // 13 chars
+      "zip": "99999-9999", // 10 chars
+      "country": "United States of America"
+    },
+    "expectedResult": "New Account is created Successfully"
+  },
+  "invalidEmail": {
+    "scenarioName": "Invalid Email Format",
+    "browser": "Edge",
+    "accountName": "Test Account Invalid Email",
+    "accountType": "Standard",
+    "industry": "Finance",
+    "phone": "1234567890",
+    "email": "invalid-email-format",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Gotham",
+      "state": "NY",
+      "zip": "10001",
+      "country": "USA"
+    },
+    "expectedResult": "Error: Invalid email address"
+  },
+  "specialCharacters": {
+    "scenarioName": "Special Characters in Fields",
+    "browser": "Edge",
+    "accountName": "!@#$%^&*()_+|~=`{}[]:;'<>,.?/",
+    "accountType": "!@#Type$%",
+    "industry": "!@#Industry$%",
+    "phone": "!@#$%^&*()",
+    "email": "test!@#$.email@example.com",
+    "address": {
+      "street": "!@#Street$%",
+      "city": "!@#City$%",
+      "state": "!@#State$%",
+      "zip": "!@#Zip$%",
+      "country": "!@#Country$%"
+    },
+    "expectedResult": "Error: Invalid characters in input"
+  },
+  "duplicateAccount": {
+    "scenarioName": "Duplicate Account Name",
+    "browser": "Edge",
+    "accountName": "Test Account Inc.",
+    "accountType": "Standard",
+    "industry": "Technology",
+    "phone": "1234567890",
+    "email": "duplicate.account@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Metropolis",
+      "state": "CA",
+      "zip": "90001",
+      "country": "USA"
+    },
+    "expectedResult": "Error: Account already exists"
+  },
+  "locators": {
+    "accountNameInput": "#accountName",
+    "accountTypeDropdown": "#accountType",
+    "industryDropdown": "#industry",
+    "phoneInput": "#phone",
+    "emailInput": "#email"
+  },
+  "meta": {
+    "testCaseId": "TC_001",
+    "testCaseName": "Title not provided",
+    "priority": "Medium",
+    "preconditions": "Edge browser is installed",
+    "stepsCount": 820,
+    "expectedResultsCount": 0,
+    "expectedResult": "New Account is created Successfully",
+    "dataItems": 446,
+    "locatorsCount": 5
+  }
+}
