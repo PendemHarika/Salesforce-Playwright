@@ -1,0 +1,119 @@
+// Test data for: Verify opportunity, Related contact and related account is created for existing account
+{
+  "validOpportunityCreation": {
+    "scenarioName": "Verify opportunity, Related contact and related account is created for existing account",
+    "account": {
+      "accountName": "Acme Corporation",
+      "accountType": "Existing",
+      "accountNumber": "ACME-001",
+      "industry": "Technology",
+      "billingAddress": "123 Main St, San Francisco, CA, 94105",
+      "shippingAddress": "123 Main St, San Francisco, CA, 94105",
+      "phone": "+1-415-555-1212",
+      "website": "https://www.acme.com",
+      "annualRevenue": 10000000,
+      "employees": 250,
+      "rating": "Hot"
+    },
+    "contact": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@acme.com",
+      "phone": "+1-415-555-1234",
+      "title": "VP of Sales",
+      "department": "Sales",
+      "mailingAddress": "456 Market St, San Francisco, CA, 94105",
+      "contactRole": "Decision Maker"
+    },
+    "opportunity": {
+      "opportunityName": "Acme Q1 Expansion",
+      "recordType": "New Business",
+      "stage": "Prospecting",
+      "closeDate": "2025-12-31",
+      "amount": 500000,
+      "opportunityType": "Expansion",
+      "leadSource": "Web",
+      "probability": 10,
+      "primaryContact": "John Doe",
+      "relatedAccount": "Acme Corporation"
+    },
+    "relatedAccount": {
+      "accountName": "Acme Subsidiary",
+      "accountType": "Subsidiary",
+      "industry": "Technology",
+      "billingAddress": "789 Mission St, San Francisco, CA, 94103",
+      "phone": "+1-415-555-5678"
+    },
+    "expectedResult": "Opportunity, related contact and related account is created for Existing account"
+  },
+  "edgeCases": [
+    {
+      "scenarioName": "Account with minimal required fields",
+      "account": {
+        "accountName": "Minimal Account",
+        "accountType": "Existing"
+      },
+      "contact": {
+        "firstName": "Jane",
+        "lastName": "Smith"
+      },
+      "opportunity": {
+        "opportunityName": "Minimal Opp",
+        "stage": "Prospecting",
+        "closeDate": "2025-01-01"
+      },
+      "relatedAccount": {
+        "accountName": "Minimal Subsidiary"
+      },
+      "expectedResult": "Opportunity, related contact and related account is created for Existing account"
+    },
+    {
+      "scenarioName": "Boundary test: Maximum field lengths",
+      "account": {
+        "accountName": "A".repeat(80),
+        "accountType": "Existing",
+        "accountNumber": "9".repeat(20),
+        "industry": "I".repeat(40),
+        "billingAddress": "B".repeat(255),
+        "phone": "+1-999-999-9999",
+        "website": "https://www.longdomainnameexample.com/" + "w".repeat(50)
+      },
+      "contact": {
+        "firstName": "F".repeat(40),
+        "lastName": "L".repeat(80),
+        "email": "max.length.email.address@example.com",
+        "phone": "+1-999-999-9999"
+      },
+      "opportunity": {
+        "opportunityName": "O".repeat(120),
+        "stage": "Prospecting",
+        "closeDate": "2025-12-31"
+      },
+      "relatedAccount": {
+        "accountName": "R".repeat(80)
+      },
+      "expectedResult": "Opportunity, related contact and related account is created for Existing account"
+    },
+    {
+      "scenarioName": "Invalid email format for contact",
+      "account": {
+        "accountName": "Acme Invalid Email",
+        "accountType": "Existing"
+      },
+      "contact": {
+        "firstName": "Invalid",
+        "lastName": "Email",
+        "email": "not-an-email"
+      },
+      "opportunity": {
+        "opportunityName": "Invalid Email Opp",
+        "stage": "Prospecting",
+        "closeDate": "2025-12-31"
+      },
+      "relatedAccount": {
+        "accountName": "Invalid Email Subsidiary"
+      },
+      "expectedResult": "Opportunity, related contact and related account is created for Existing account"
+    }
+  ]
+}
