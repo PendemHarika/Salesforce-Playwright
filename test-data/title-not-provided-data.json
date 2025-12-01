@@ -1,0 +1,132 @@
+// Test Data for TC_001: Title not provided
+// This file contains representative samples and edge cases for account creation
+{
+  "validAccountCreation": {
+    "scenarioName": "Valid Account Creation",
+    "accountName": "Acme Corporation",
+    "accountType": "Customer",
+    "industry": "Technology",
+    "phone": "123-456-7890",
+    "email": "contact@acmecorp.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Metropolis",
+      "state": "CA",
+      "zip": "90001",
+      "country": "USA"
+    },
+    "expectedResult": "New Account is created Successfully"
+  },
+  "missingRequiredFields": {
+    "scenarioName": "Missing Required Fields",
+    "accountName": "",
+    "accountType": "Customer",
+    "industry": "Technology",
+    "phone": "",
+    "email": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "country": ""
+    },
+    "expectedResult": "Error: Required fields are missing"
+  },
+  "boundaryValues": {
+    "scenarioName": "Boundary Values",
+    "accountName": "A",
+    "accountType": "Customer",
+    "industry": "Technology",
+    "phone": "000-000-0000",
+    "email": "a@a.co",
+    "address": {
+      "street": "1",
+      "city": "A",
+      "state": "A",
+      "zip": "00000",
+      "country": "A"
+    },
+    "expectedResult": "New Account is created Successfully"
+  },
+  "maxLengthFields": {
+    "scenarioName": "Max Length Fields",
+    "accountName": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "accountType": "Partner",
+    "industry": "Manufacturing",
+    "phone": "999-999-9999",
+    "email": "longemailaddressforaccountcreationpurpose@exampledomain.com",
+    "address": {
+      "street": "9999 Long Street Name That Exceeds Normal Length",
+      "city": "VeryLongCityNameThatExceedsLimits",
+      "state": "XX",
+      "zip": "99999-9999",
+      "country": "United States of America"
+    },
+    "expectedResult": "New Account is created Successfully"
+  },
+  "invalidEmail": {
+    "scenarioName": "Invalid Email Format",
+    "accountName": "Test Account",
+    "accountType": "Customer",
+    "industry": "Finance",
+    "phone": "123-456-7890",
+    "email": "invalid-email-format",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Gotham",
+      "state": "NY",
+      "zip": "10001",
+      "country": "USA"
+    },
+    "expectedResult": "Error: Invalid email format"
+  },
+  "specialCharacters": {
+    "scenarioName": "Special Characters in Fields",
+    "accountName": "!@#$%^&*()_+|~`{}[]:;'<>,.?/",
+    "accountType": "Customer",
+    "industry": "Retail",
+    "phone": "(555) 555-5555",
+    "email": "special@chars.com",
+    "address": {
+      "street": "!@# Main St.",
+      "city": "City!@#",
+      "state": "ST",
+      "zip": "12345",
+      "country": "USA"
+    },
+    "expectedResult": "New Account is created Successfully"
+  },
+  "duplicateAccount": {
+    "scenarioName": "Duplicate Account Name",
+    "accountName": "Acme Corporation",
+    "accountType": "Customer",
+    "industry": "Technology",
+    "phone": "123-456-7890",
+    "email": "duplicate@acmecorp.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Metropolis",
+      "state": "CA",
+      "zip": "90001",
+      "country": "USA"
+    },
+    "expectedResult": "Error: Account already exists"
+  },
+  "numericFields": {
+    "scenarioName": "Numeric Fields Only",
+    "accountName": "1234567890",
+    "accountType": "Supplier",
+    "industry": "12345",
+    "phone": "1234567890",
+    "email": "1234567890@numbers.com",
+    "address": {
+      "street": "1234567890",
+      "city": "12345",
+      "state": "12",
+      "zip": "12345",
+      "country": "123"
+    },
+    "expectedResult": "New Account is created Successfully"
+  }
+}
