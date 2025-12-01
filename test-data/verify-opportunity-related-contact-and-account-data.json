@@ -1,0 +1,123 @@
+// Test data for TC_001: Verify opportunity, Related contact and related account is created for existing account
+{
+  "validOpportunityCreation": {
+    "scenarioName": "Verify opportunity, Related contact and related account is created for existing account",
+    "accountName": "Acme Corporation",
+    "accountType": "Existing",
+    "accountNumber": "ACCT-10001",
+    "opportunityName": "Q2 2024 - Acme Expansion",
+    "opportunityType": "New Business",
+    "opportunityStage": "Prospecting",
+    "opportunityAmount": 1000000,
+    "opportunityCloseDate": "2024-06-30",
+    "relatedContact": {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "jane.doe@acme.com",
+      "phone": "+1-555-123-4567",
+      "role": "Decision Maker"
+    },
+    "relatedAccount": {
+      "accountName": "Acme Subsidiary LLC",
+      "accountType": "Subsidiary",
+      "accountNumber": "ACCT-20002"
+    },
+    "owner": "harika.pendem",
+    "recordType": "Standard",
+    "industry": "Manufacturing",
+    "region": "North America",
+    "priority": "Medium",
+    "expectedResult": "Opportunity, related contact and related account is created for Existing account"
+  },
+  "edgeCases": [
+    {
+      "scenarioName": "Account with missing contact email",
+      "accountName": "Beta Corp",
+      "accountType": "Existing",
+      "accountNumber": "ACCT-10002",
+      "opportunityName": "Q3 2024 - Beta Upgrade",
+      "opportunityType": "Renewal",
+      "opportunityStage": "Qualification",
+      "opportunityAmount": 50000,
+      "opportunityCloseDate": "2024-07-15",
+      "relatedContact": {
+        "firstName": "John",
+        "lastName": "Smith",
+        "email": "",
+        "phone": "+1-555-987-6543",
+        "role": "IT Manager"
+      },
+      "relatedAccount": {
+        "accountName": "Beta Holdings",
+        "accountType": "Parent",
+        "accountNumber": "ACCT-30003"
+      },
+      "owner": "qa.user",
+      "recordType": "Custom",
+      "industry": "Technology",
+      "region": "Europe",
+      "priority": "High",
+      "expectedResult": "Opportunity, related contact (with missing email) and related account is created for Existing account"
+    },
+    {
+      "scenarioName": "Opportunity with zero amount",
+      "accountName": "Gamma Inc.",
+      "accountType": "Existing",
+      "accountNumber": "ACCT-10003",
+      "opportunityName": "Q4 2024 - Gamma Pilot",
+      "opportunityType": "Pilot",
+      "opportunityStage": "Negotiation",
+      "opportunityAmount": 0,
+      "opportunityCloseDate": "2024-08-01",
+      "relatedContact": {
+        "firstName": "Alice",
+        "lastName": "Wong",
+        "email": "alice.wong@gamma.com",
+        "phone": "",
+        "role": "Finance"
+      },
+      "relatedAccount": {
+        "accountName": "Gamma Ventures",
+        "accountType": "Affiliate",
+        "accountNumber": "ACCT-40004"
+      },
+      "owner": "automation.user",
+      "recordType": "Standard",
+      "industry": "Finance",
+      "region": "Asia",
+      "priority": "Low",
+      "expectedResult": "Opportunity with zero amount, related contact and related account is created for Existing account"
+    }
+  ],
+  "boundaryValues": [
+    {
+      "scenarioName": "Max length account name",
+      "accountName": "A".repeat(80),
+      "accountType": "Existing",
+      "accountNumber": "ACCT-99999",
+      "opportunityName": "Max Length Opportunity Name".padEnd(120, "X"),
+      "opportunityType": "Expansion",
+      "opportunityStage": "Closed Won",
+      "opportunityAmount": 999999999,
+      "opportunityCloseDate": "2099-12-31",
+      "relatedContact": {
+        "firstName": "Max",
+        "lastName": "Length",
+        "email": "max.length@example.com",
+        "phone": "+1-555-000-0000",
+        "role": "CEO"
+      },
+      "relatedAccount": {
+        "accountName": "Subsidiary Max Length".padEnd(80, "Y"),
+        "accountType": "Subsidiary",
+        "accountNumber": "ACCT-88888"
+      },
+      "owner": "boundary.user",
+      "recordType": "Standard",
+      "industry": "Test Industry",
+      "region": "Antarctica",
+      "priority": "Medium",
+      "expectedResult": "Opportunity, related contact and related account with max field lengths created for Existing account"
+    }
+  ]
+}
