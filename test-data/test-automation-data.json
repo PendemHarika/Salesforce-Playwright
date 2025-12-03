@@ -1,0 +1,9 @@
+// Test data file for: Test automation
+// Generated: 2025-12-03
+// Purpose: Placeholder for test data supporting the 'Test automation' test case
+{
+  "testAutomation": {
+    "description": "No test data required for this test case as per current requirements.",
+    "note": "This file is intentionally left minimal due to absence of test data items in the test case specification."
+  }
+}
