@@ -1,0 +1,192 @@
+// Test data for TC_001: Title not provided
+{
+  "validAccountCreation": {
+    "scenarioName": "Create New Account with Valid Data",
+    "accountName": "Acme Corp",
+    "accountType": "Customer",
+    "industry": "Technology",
+    "annualRevenue": 1000000,
+    "phone": "123-456-7890",
+    "website": "https://acme.example.com",
+    "billingAddress": {
+      "street": "123 Main St",
+      "city": "Metropolis",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    },
+    "shippingAddress": {
+      "street": "123 Main St",
+      "city": "Metropolis",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    },
+    "description": "Primary technology customer account.",
+    "expectedResult": "New Account is created Successfully"
+  },
+  "edgeCases": [
+    {
+      "scenarioName": "Create Account with Minimum Required Fields",
+      "accountName": "A",
+      "accountType": "Customer",
+      "industry": "",
+      "annualRevenue": 0,
+      "phone": "",
+      "website": "",
+      "billingAddress": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": ""
+      },
+      "shippingAddress": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": ""
+      },
+      "description": "",
+      "expectedResult": "New Account is created Successfully"
+    },
+    {
+      "scenarioName": "Create Account with Maximum Field Lengths",
+      "accountName": "A".repeat(255),
+      "accountType": "Customer",
+      "industry": "Manufacturing",
+      "annualRevenue": 9999999999,
+      "phone": "999-999-9999",
+      "website": "https://verylongwebsiteurl.example.com/" + "a".repeat(200),
+      "billingAddress": {
+        "street": "B".repeat(255),
+        "city": "C".repeat(100),
+        "state": "D".repeat(100),
+        "postalCode": "E".repeat(20),
+        "country": "F".repeat(100)
+      },
+      "shippingAddress": {
+        "street": "B".repeat(255),
+        "city": "C".repeat(100),
+        "state": "D".repeat(100),
+        "postalCode": "E".repeat(20),
+        "country": "F".repeat(100)
+      },
+      "description": "G".repeat(1000),
+      "expectedResult": "New Account is created Successfully"
+    },
+    {
+      "scenarioName": "Create Account with Special Characters",
+      "accountName": "!@#$%^&*()_+|~`{}[]:;'<>,.?/",
+      "accountType": "Partner",
+      "industry": "Finance",
+      "annualRevenue": 500000,
+      "phone": "+1 (555) 123-4567",
+      "website": "https://special-characters.example.com",
+      "billingAddress": {
+        "street": "456 Elm St #!@",
+        "city": "Gotham$%",
+        "state": "NY*()",
+        "postalCode": "10001-!@#",
+        "country": "USA"
+      },
+      "shippingAddress": {
+        "street": "456 Elm St #!@",
+        "city": "Gotham$%",
+        "state": "NY*()",
+        "postalCode": "10001-!@#",
+        "country": "USA"
+      },
+      "description": "Account with special characters in all fields.",
+      "expectedResult": "New Account is created Successfully"
+    },
+    {
+      "scenarioName": "Create Account with Empty Optional Fields",
+      "accountName": "Minimal Account",
+      "accountType": "Prospect",
+      "industry": "",
+      "annualRevenue": null,
+      "phone": "",
+      "website": "",
+      "billingAddress": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": ""
+      },
+      "shippingAddress": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": ""
+      },
+      "description": "",
+      "expectedResult": "New Account is created Successfully"
+    }
+  ],
+  "negativeCases": [
+    {
+      "scenarioName": "Create Account with Missing Required Field",
+      "accountName": "",
+      "accountType": "Customer",
+      "industry": "Technology",
+      "annualRevenue": 1000000,
+      "phone": "123-456-7890",
+      "website": "https://acme.example.com",
+      "billingAddress": {
+        "street": "123 Main St",
+        "city": "Metropolis",
+        "state": "CA",
+        "postalCode": "90001",
+        "country": "USA"
+      },
+      "shippingAddress": {
+        "street": "123 Main St",
+        "city": "Metropolis",
+        "state": "CA",
+        "postalCode": "90001",
+        "country": "USA"
+      },
+      "description": "Account name is missing (required field)",
+      "expectedResult": "Account creation fails with required field validation error"
+    },
+    {
+      "scenarioName": "Create Account with Invalid Data Types",
+      "accountName": 12345,
+      "accountType": true,
+      "industry": 67890,
+      "annualRevenue": "One Million",
+      "phone": false,
+      "website": 98765,
+      "billingAddress": {
+        "street": null,
+        "city": 123,
+        "state": false,
+        "postalCode": [],
+        "country": {}
+      },
+      "shippingAddress": {
+        "street": null,
+        "city": 123,
+        "state": false,
+        "postalCode": [],
+        "country": {}
+      },
+      "description": 45678,
+      "expectedResult": "Account creation fails with data type validation error"
+    }
+  ],
+  "metadata": {
+    "testCaseId": "TC_001",
+    "testCaseName": "Title not provided",
+    "priority": "Medium",
+    "module": null,
+    "submodule": null,
+    "expectedResult": "New Account is created Successfully",
+    "totalTestDataItems": 446,
+    "locatorsUsed": 5
+  }
+}
