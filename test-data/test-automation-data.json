@@ -1,0 +1,9 @@
+// Test data for Test Case: Test automation
+// Generated based on test case details and existing test data patterns
+{
+  "testAutomation": {
+    "scenarioName": "Test automation",
+    "description": "No test data required for this scenario as per test case details.",
+    "notes": "This test case does not require any input data. Locators are managed separately in locators.json."
+  }
+}
