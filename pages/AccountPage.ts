@@ -36,5 +36,44 @@ export class AccountPage {
         }
     }
 
-   
+    /**
+     * Completes the end-to-end workflow for creating a new Account, filling all required fields, saving, and validating creation success.
+     * Combines navigation, data entry, submission, and validation into a single business-flow method.
+     *
+     * @param accountData - Object containing all required account fields (e.g., name, type, industry, etc.)
+     */
+    async createAndValidateNewAccount(accountData: { name: string; type?: string; industry?: string; [key: string]: any }) {
+        const { name, type, industry, ...otherFields } = accountData;
+        // Navigate to Accounts tab (reuse HomePage method if available)
+        // TODO: Replace with actual navigation logic if not already present
+        // await this.page.goto('/lightning/o/Account/list');
+
+        // Click 'New' button
+        await this.page.locator('locator("<PLACEHOLDER_new_account_button>")').click(); // TODO: Replace with actual locator
+
+        // Fill Account Name
+        await this.page.locator('locator("<PLACEHOLDER_account_name_input>")').fill(name); // TODO: Replace with actual locator
+
+        // Fill optional fields if provided
+        if (type) {
+            await this.page.locator('locator("<PLACEHOLDER_account_type_dropdown>")').selectOption(type); // TODO: Replace with actual locator
+        }
+        if (industry) {
+            await this.page.locator('locator("<PLACEHOLDER_account_industry_dropdown>")').selectOption(industry); // TODO: Replace with actual locator
+        }
+        // Fill any additional fields
+        for (const [field, value] of Object.entries(otherFields)) {
+            await this.page.locator(`locator("<PLACEHOLDER_${field}_input>")`).fill(value); // TODO: Replace with actual locator
+        }
+
+        // Click 'Save' button
+        await this.page.locator('locator("<PLACEHOLDER_save_account_button>")').click(); // TODO: Replace with actual locator
+
+        // Wait for success toast/message
+        await this.page.waitForSelector('locator("<PLACEHOLDER_account_success_toast>")', { timeout: 10000 }); // TODO: Replace with actual locator
+
+        // Validate Account was created (reuse validateAccountCreated if available)
+        await this.validateAccountCreated(name);
+    }
+
 }
