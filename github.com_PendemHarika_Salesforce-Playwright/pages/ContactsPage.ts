@@ -155,4 +155,66 @@ export class ContactsPage {
       throw new Error(`Contact ${firstName} ${lastName} with email ${email} not found in list.`);
     }
   }
+
+  // ==================== NEW METHODS ADDED BELOW (per requirements) ====================
+
+  /**
+   * Creates a new contact with the given details, including multiple emails and category selection.
+   * Fills out First Name, Last Name, Email(s), Email Type(s), Category, and saves the contact.
+   * @param contactData - Object containing firstName, lastName, emails (array of { value, type }), and category
+   */
+  async createNewContact(contactData: {
+    firstName: string;
+    lastName: string;
+    emails: { value: string; type: string }[];
+    category: string;
+  }) {
+    const { firstName, lastName, emails, category } = contactData;
+    const page = this.page;
+    // The following assumes a utility object webUserActions is available as in the requirements.
+    // If not, replace with direct Playwright actions as needed.
+    // For consistency, we use direct Playwright actions here.
+    // Fill First Name
+    await page.locator('input[name="first_name"]').fill(firstName);
+    // Fill Last Name
+    await page.locator('input[name="last_name"]').fill(lastName);
+    // Fill first Email and Email Type
+    if (emails.length > 0) {
+      await page.locator('input[name="value"]').first().fill(emails[0].value);
+      await page.locator('input[name="name"]').first().fill(emails[0].type);
+      // Add additional emails if present
+      for (let i = 1; i < emails.length; i++) {
+        await page.locator('xpath=//button[contains(@class, "basic icon button") and .//i[contains(@class, "add icon")]]').click();
+        await page.locator('input[name="value"]').nth(i).fill(emails[i].value);
+        await page.locator('input[name="name"]').nth(i).fill(emails[i].type);
+      }
+    }
+    // Select Category from dropdown
+    await page.locator('xpath=//div[@role="listbox" and contains(@class, "selection dropdown")]').click();
+    await page.locator(`xpath=//div[@role="option" and .//span[text()="${category}"]]`).click();
+    // Click Save
+    await page.locator('xpath=//button[contains(@class, "linkedin button") and .//i[contains(@class, "save icon")]]').click();
+    // Wait for contact to appear in list (validation can be performed separately)
+  }
+
+  /**
+   * Validates that the error message for required First Name is displayed.
+   * @returns Promise<boolean> indicating if the error is visible
+   */
+  async isFirstNameRequiredErrorVisible(): Promise<boolean> {
+    const errorLocator = this.page.locator('label:has-text("First Name") .inline-error-msg');
+    return await errorLocator.isVisible();
+  }
+
+  /**
+   * Deletes a contact by first name and last name from the contacts list.
+   * @param firstName - First Name of the contact
+   * @param lastName - Last Name of the contact
+   */
+  async deleteContactByName(firstName: string, lastName: string) {
+    // Find the contact row by name (placeholder locator)
+    const contactRow = this.page.locator(`//tr[td[contains(text(), "${firstName}")] and td[contains(text(), "${lastName}")]]`); // TODO: Replace with actual locator
+    await contactRow.locator('button.ui.button.icon').click(); // Delete Button
+    // Confirm deletion if confirmation dialog appears (add logic if needed)
+  }
 }
